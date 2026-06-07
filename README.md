@@ -1,0 +1,44 @@
+# omnibrain
+
+`omnibrain` is a shared repository for condensed research, agent handoffs, and reusable context.
+
+The goal is simple: if a person or agent does useful synthesis work, it should be easy to save that work in a form that another agent can pick up later without starting from zero.
+
+## What goes here
+
+- `research/`
+  Condensed topic notes, source-grounded summaries, quote packs, decision memos, and short briefings.
+
+- `handoffs/`
+  Active context packets meant to help another agent continue work quickly.
+
+- `templates/`
+  Lightweight templates for research notes and handoff docs.
+
+## Principles
+
+- Prefer condensed synthesis over raw dumps.
+- Keep citations or source pointers close to claims.
+- Write for fast reuse by another agent or human.
+- Favor small, composable notes over giant catch-all documents.
+- Store durable context here; leave scratch work elsewhere.
+
+## Suggested conventions
+
+- One markdown file per topic or question.
+- Use descriptive filenames with dates when helpful.
+- Start each note with the source and the point of the document.
+- End with takeaways, open questions, or next steps when relevant.
+
+## Initial layout
+
+- `research/company-culture/`
+- `handoffs/`
+- `templates/`
+
+This is intentionally minimal for now. If it becomes useful, the next obvious additions are:
+
+- an index page by topic
+- a standard metadata header
+- a small tagging convention
+- agent-specific handoff packets for long-running work
