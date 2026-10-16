@@ -33,6 +33,7 @@ The goal is simple: if a person or agent does useful synthesis work, it should b
 ## Initial layout
 
 - `research/company-culture/`
+- `research/x-bookmarks/` — Noah's X bookmarks, one note per post, plus a topic index and digest
 - `handoffs/`
 - `templates/`
 
