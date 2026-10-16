@@ -3,6 +3,10 @@
 Source: Noah Pepper's (@noahmp) X bookmarks, 74 posts, published 2018-03-20 → 2026-10-16; 23 marked partial.  
 Point: a condensed, source-grounded index of saved posts. Each note in `notes/` has the link, author, date, topic, main point, takeaways, and transcript link when there's a video. See [digest.md](digest.md) for cross-topic themes.
 
+## Pipeline
+
+Ingestion, state, and the daily schedule are documented in [PIPELINE.md](PIPELINE.md). Run evidence lives in [runs/](runs/).
+
 Summaries are written only from the fetched post, linked pages, quoted posts and local Whisper transcripts. Notes say when content couldn't be fetched.
 
 ## Topics
