@@ -4,6 +4,8 @@
 
 The goal is simple: if a person or agent does useful synthesis work, it should be easy to save that work in a form that another agent can pick up later without starting from zero.
 
+Start with the [Investment research desk](research/investing/README.md) for long-term business research, evidence, specific portfolio proposals and review.
+
 ## What goes here
 
 - `research/`
@@ -32,6 +34,7 @@ The goal is simple: if a person or agent does useful synthesis work, it should b
 
 ## Initial layout
 
+- `research/investing/` — investment mandate, review desk, business assessments, proposals and decision history
 - `research/company-culture/`
 - `research/x-bookmarks/` — Noah's X bookmarks, one note per post, plus a topic index and digest
 - `handoffs/`
