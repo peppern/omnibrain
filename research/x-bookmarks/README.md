@@ -1,6 +1,6 @@
 # X Bookmarks
 
-Source: Noah Pepper's (@noahmp) X bookmarks, 74 posts, published 2018-03-20 → 2026-10-16; 23 marked partial.  
+Source: Noah Pepper's (@noahmp) X bookmarks, 84 posts, published 2018-03-20 → 2026-10-17; 24 marked partial.  
 Point: a condensed, source-grounded index of saved posts. Each note in `notes/` has the link, author, date, topic, main point, takeaways, and transcript link when there's a video. See [digest.md](digest.md) for cross-topic themes.
 
 ## Pipeline
@@ -11,6 +11,27 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 
 ## Topics
 
+
+### Misc / Science / Lifestyle (18)
+
+- [Jev paired with Grok Bot can cut fork costs from about $110/day to about $4 by letting a cheap model score not…](notes/2026-10-17-0x-rody-2111491014053511341.md) — @0x_rody, 2026-10-17
+- [Mignano argues agentic AI will reorganize markets the way internet and then mobile/cloud did, hitting incumben…](notes/2026-10-17-mignano-2111566624855560200.md) — @mignano, 2026-10-17
+- [Doris Tsao's lab reports a preprint claiming consciousness has an unexpected neural structure that overturns d…](notes/2026-10-17-doristsao-2111316522098733078.md) — @doristsao, 2026-10-17
+- [Seven repos are pitched as compilers that turn notes into a linked knowledge base Claude can maintain, not as …](notes/2026-10-16-rvaniaaaa-2111085365171790269.md) — @rvaniaaaa, 2026-10-16
+- [A promotional claim that wiring Grok Bot to Jev for SEO decisions and actions will mint more millionaires in 2…](notes/2026-10-16-irongiantxbt-2110974016555286817.md) — @irongiantXBT, 2026-10-16
+- [A 34-minute workshop (attributed to SpaceXAI engineer Lauren Tan) on running Grok Bot as a coordinated fleet: …](notes/2026-10-16-iiiichigo-chan-2111144368547487835.md) — @iiiichigo_chan, 2026-10-16
+- [Ten high-star open tools mapped to a solo motion-design pipeline from storyboard to encoded MP4.](notes/2026-10-16-beamnxw-2111125001482936542.md) — @beamnxw, 2026-10-16
+- [Champagne Kofi endorses an ad-launch MCP from Peter Czepiga that applies saved Meta ads preferences (copy, Adv…](notes/2026-10-16-champagnekofi-2111086010222477440.md) — @champagnekofi, 2026-10-16
+- [Alexandr Wang reacts with over-the-top enthusiasm to an AI-generated 'slop' video by @thoughtcrime___, made fo…](notes/2026-10-16-alexandr-wang-2110913638701916459.md) — @alexandr_wang, 2026-10-16
+- [Alex Gough Cooper posted a 49-minute walkthrough of editing Facebook ads with Opus 5.5.](notes/2026-10-15-alexgoughcooper-2110853666739556518.md) — @alexgoughcooper, 2026-10-15
+- [A list of ten open repos pitched as an end-to-end AI content factory: scripting, research, images, voice, musi…](notes/2026-10-15-heyrimsha-2110687947423088920.md) — @heyrimsha, 2026-10-15
+- [A link to an X Article by Sydney Runkle; the article couldn't be fetched (404 to non-logged-in readers), so it…](notes/2026-09-18-sydneyrunkle-2100754364545761643.md) — @sydneyrunkle, 2026-09-18
+- [Naomi Wu (Dec 2021) starts a crowdsourced thread of maker/STEM projects to do at home with kids during the hol…](notes/2021-12-21-realsexycyborg-1473101836299083779.md) — @RealSexyCyborg, 2021-12-21
+- [A Lit Hub interview with historian Joshua Specht on why steak became bound up with American masculinity, class…](notes/2019-05-08-stevesimitzis-1126142177812176898.md) — @stevesimitzis, 2019-05-08
+- [Tall 'mass timber' buildings are fast, low-carbon and surprisingly fire-resistant, but US building codes still…](notes/2018-08-26-thebuckst0p-1033537234220109824.md) — @thebuckst0p, 2018-08-26
+- [A Wirecutter Prime Day deal: the All-Clad B1 nonstick 8" + 10" fry pan set (their runner-up pick) at $45, down…](notes/2018-07-16-wirecutterdeals-1018937020121534464.md) — @WirecutterDeals, 2018-07-16
+- [A reply linking an SSRN preprint; SSRN blocked fetching, so the paper's topic is unknown.](notes/2018-07-16-degenrolf-1018880837251674113.md) — @DegenRolf, 2018-07-16
+- [Mahendra Parekh shares the 2018 IceCube result tracing high-energy neutrinos to a blazar; the NYT article retu…](notes/2018-07-14-mparekh-1017973696210718720.md) — @MParekh, 2018-07-14
 
 ### AI & Coding Tools (15)
 
@@ -59,17 +80,6 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 - [Paul Millerd's thread (recovered in full) shows that the '40% of Americans can't cover $400' headline misreads…](notes/2019-04-16-p-millerd-1118071142311288838.md) — @p_millerd, 2019-04-16
 - [Epsilon Theory's 'The Icarus Moment' argues that markets and politics now trade on cartoon-like abstractions o…](notes/2018-03-21-epsilontheory-976553846641250305.md) — @EpsilonTheory, 2018-03-21
 - [Sam Dogen (Financial Samurai) is betting on heartland and Sunbelt real estate as a decades-long trend driven b…](notes/2018-03-20-financialsamura-976142396655255552.md) — @financialsamura, 2018-03-20
-
-### Misc / Science / Lifestyle (8)
-
-- [Alexandr Wang reacts with over-the-top enthusiasm to an AI-generated 'slop' video by @thoughtcrime___, made fo…](notes/2026-10-16-alexandr-wang-2110913638701916459.md) — @alexandr_wang, 2026-10-16
-- [A link to an X Article by Sydney Runkle; the article couldn't be fetched (404 to non-logged-in readers), so it…](notes/2026-09-18-sydneyrunkle-2100754364545761643.md) — @sydneyrunkle, 2026-09-18
-- [Naomi Wu (Dec 2021) starts a crowdsourced thread of maker/STEM projects to do at home with kids during the hol…](notes/2021-12-21-realsexycyborg-1473101836299083779.md) — @RealSexyCyborg, 2021-12-21
-- [A Lit Hub interview with historian Joshua Specht on why steak became bound up with American masculinity, class…](notes/2019-05-08-stevesimitzis-1126142177812176898.md) — @stevesimitzis, 2019-05-08
-- [Tall 'mass timber' buildings are fast, low-carbon and surprisingly fire-resistant, but US building codes still…](notes/2018-08-26-thebuckst0p-1033537234220109824.md) — @thebuckst0p, 2018-08-26
-- [A Wirecutter Prime Day deal: the All-Clad B1 nonstick 8" + 10" fry pan set (their runner-up pick) at $45, down…](notes/2018-07-16-wirecutterdeals-1018937020121534464.md) — @WirecutterDeals, 2018-07-16
-- [A reply linking an SSRN preprint; SSRN blocked fetching, so the paper's topic is unknown.](notes/2018-07-16-degenrolf-1018880837251674113.md) — @DegenRolf, 2018-07-16
-- [Mahendra Parekh shares the 2018 IceCube result tracing high-energy neutrinos to a blazar; the NYT article retu…](notes/2018-07-14-mparekh-1017973696210718720.md) — @MParekh, 2018-07-14
 
 ### Books, Learning & Ideas (8)
 
