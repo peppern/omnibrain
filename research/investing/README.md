@@ -18,7 +18,7 @@ Find understandable businesses that can compound per-share value for years, then
 
 Read the [investment mandate](mandate.md), [routine](routine.md), and [templates](templates/README.md). Evidence supports or challenges particular claims; a company mention alone does not establish a relationship. Business quality, valuation, conviction and research priority are separate judgments. Unknowns remain visible.
 
-The existing machine-generated evidence/thesis area is `research/investment-ideas/`; it currently exists in [draft PR #2](https://github.com/peppern/omnibrain/pull/2). This desk links to those sources rather than creating another writable thesis registry. The implementation must replace draft-branch links with canonical relative links when that material is available on the publication branch.
+The existing machine-generated evidence/thesis area is [`research/investment-ideas/`](../investment-ideas/README.md), written by `omni tracks export`. This desk links to those sources rather than creating another writable thesis registry.
 
 ## Publication ownership
 
