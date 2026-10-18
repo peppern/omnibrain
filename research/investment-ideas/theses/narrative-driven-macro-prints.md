@@ -22,6 +22,10 @@ Markets react strongly to noisy macro statistics and the narratives built on the
 
 - Price reactions to releases are proportional to later revisions and surprise size
 
+## Current view
+
+_No current view yet (`omni tracks view generate narrative-driven-macro-prints`)._
+
 ## Evidence from sources
 
 - **skeptical** · risk-signal · [@EpsilonTheory, 2018-03-21](https://x.com/EpsilonTheory/status/976553846641250305): Epsilon Theory argues markets and politics react to cartoon-like abstractions of reality, a system that holds only while confidence in the abstractions lasts. — “Markets and politics respond to theatrical abstractions of reality so distorted that they've become cartoons.” (main) / “The system holds as long as confidence in the abstractions persists; once that breaks, the fall happens fast.” (main) _(caveats: essay known via a WebFetch extraction, not the full original text)_

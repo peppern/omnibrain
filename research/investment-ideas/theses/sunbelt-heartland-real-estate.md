@@ -24,6 +24,10 @@ Remote work and the search for cheaper, less dense places drive a multi-decade s
 
 - Sunbelt prices and rents underperform coastal markets for several years
 
+## Current view
+
+_No current view yet (`omni tracks view generate sunbelt-heartland-real-estate`)._
+
 ## Evidence from sources
 
 - **bullish** · thesis · [@financialsamura, 2018-03-20](https://x.com/financialsamura/status/976142396655255552): Financial Samurai is investing in heartland/Sunbelt real estate as a multi-decade trend driven by technology, remote work and demand for cheaper, less dense places. — “The trend towards the inland empire will be a multi-decade trend that I'm investing in” (main) / “one of the best long-term trends is investing in the heartland of America due to growth of technology and remote work” (main) _(caveats: the linked article has been updated since the 2018 post (mentions the pandemic and 2024); quotes are from the current version; article promotes a specific platform; sponsorship not checked)_

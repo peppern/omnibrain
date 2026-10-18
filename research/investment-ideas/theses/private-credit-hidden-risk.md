@@ -24,6 +24,10 @@ Private credit's smooth reported returns understate its real risk because marks 
 - Listed BDCs trade at or above NAV through a credit downturn
 - Realized losses match reported marks in a stress period
 
+## Current view
+
+_No current view yet (`omni tracks view generate private-credit-hidden-risk`)._
+
 ## Evidence from sources
 
 - **skeptical** · risk-signal · [@junkbondinvest, 2025-03-08](https://x.com/junkbondinvest/status/1898447057108566149): A 'totally accurate risk assessment' joke about a chart of private credit vs. fixed income return and volatility mocks how low private credit's measured risk looks. — “Totally accurate risk assessment” (main) / “Private credit vs fixed income return/volatility scatter chart.” (visual) _(caveats: joke post; the argument is implicit; chart content known only from the agent's visual inspection notes)_

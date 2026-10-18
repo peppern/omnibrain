@@ -22,6 +22,10 @@ Inconsistent, flattering retention definitions (such as net dollar retention tha
 
 - Standardized retention disclosure becomes common practice
 
+## Current view
+
+_No current view yet (`omni tracks view generate saas-retention-metrics-mislead`)._
+
 ## Evidence from sources
 
 - **skeptical** · risk-signal · [@seandougfan, 2020-06-27](https://x.com/seandougfan/status/1276903394725199872): Public SaaS companies define retention inconsistently (23 different names for net dollar retention alone), which can mislead investors. — “there are 23 different “names” for net dollar retention alone” (main) / “investors are being taken for a ride by some pub SaaS cos.” (main) _(caveats: the source says it is neither alleging fraud nor positioning for an investment thesis; 2020 data)_

@@ -23,6 +23,10 @@ Stocks that rate-of-change momentum investors have given up on can become attrac
 
 - Post-capitulation returns show no edge versus the market
 
+## Current view
+
+_No current view yet (`omni tracks view generate buy-after-momentum-capitulation`)._
+
 ## Evidence from sources
 
 - **contrarian** · process · [@buccocapital, 2026-10-13](https://x.com/buccocapital/status/2110134294756597812): BuccoCapital (half-jokingly) waits for 'rate of change' momentum investors to give up on a stock, and then buys it. — “I wait for these people to say that a stock can’t work, and then I wait a little bit longer just to make sure they’re done vomiting. And then I buy it” (main) _(caveats: humorous post)_

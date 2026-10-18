@@ -23,6 +23,10 @@ Building-code changes that allow taller mass-timber buildings could open a much 
 
 - Few US jurisdictions adopt the tall-timber code types
 
+## Current view
+
+_No current view yet (`omni tracks view generate us-mass-timber-adoption`)._
+
 ## Evidence from sources
 
 - **exploratory** · theme-watch · [@thebuckst0p, 2018-08-26](https://x.com/thebuckst0p/status/1033537234220109824): Mass timber is growing in Europe and Canada, but US projects were scarce and none exceeded the building code's six-story Type IV limit. — “none exceed the IBC's six-story Type IV limit” (main) _(caveats: source is about construction technology, not investing; the investable angle is the agent's framing; linked article (2017) known via a WebFetch extraction)_

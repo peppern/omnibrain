@@ -25,6 +25,10 @@ Driverless ride-hailing could become a large profit pool, and the market may be 
 - Robotaxi unit economics stay negative at scale
 - Deployment stalls for regulatory reasons
 
+## Current view
+
+_No current view yet (`omni tracks view generate robotaxi-value-capture`)._
+
 ## Evidence from sources
 
 - **exploratory** · theme-watch · [@DavidTaggart, 2025-06-13](https://x.com/DavidTaggart/status/1933655565798187274): A Fundamental Edge x Perplexity demo explores a hunch about ways to play the driverless theme by comparing Google (Waymo), Tesla and Uber as robotaxi winners. — “we'll be exploring a hunch a hunch on ways to play the driverless theme” (transcript) / “most compelling stocks to least compelling stocks of those three that would win from the robot taxi market” (transcript) _(caveats: educational demo; the hosts say they are not trading these ideas; Whisper transcript (may contain errors))_

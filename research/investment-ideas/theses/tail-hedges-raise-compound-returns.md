@@ -23,6 +23,10 @@ Tail hedges lose money on their own, but in a regularly rebalanced portfolio the
 
 - Backtests at realistic carry show no compound-return benefit versus holding cash
 
+## Current view
+
+_No current view yet (`omni tracks view generate tail-hedges-raise-compound-returns`)._
+
 ## Evidence from sources
 
 - **contrarian** · framework · [@bennpeifert, 2021-02-19](https://x.com/bennpeifert/status/1362908515874955264): Tail hedges are expected to lose money on their own, yet adding them to a regularly rebalanced portfolio can raise its long-term compound return by cushioning drawdowns. — “they can enhance the long-term compound rate of return of the overall investment program” (main) / “despite the hedges themselves losing money over long periods of time on a stand-alone basis” (main)
