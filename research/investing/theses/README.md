@@ -4,10 +4,11 @@
 
 The canonical thesis records are owned by Omniscience and exported to `research/investment-ideas/`. Links below point at that export; they are a navigation bridge, not a new registry.
 
-All eight are **candidates**, each with one evidence record as of the 2026-10-18 export. None has been assessed under the new quality-compounder mandate. Some may become business-specific leads; others may remain context or portfolio frameworks. Do not classify them from their titles alone.
+All nine are **candidates**. The first eight each have one evidence record as of the 2026-10-18 export; `agents-disrupt-knowledge-gatekeepers` was proposed by the 2026-10-19 intake and has one evidence-ledger link (see its current view) rather than an evidence record. None has been assessed under the new quality-compounder mandate. Some may become business-specific leads; others may remain context or portfolio frameworks. Do not classify them from their titles alone.
 
 | Candidate | Assessment under this mandate | Evidence records |
 | --- | --- | --- |
+| [Agents disrupt knowledge gatekeepers](../../investment-ideas/theses/agents-disrupt-knowledge-gatekeepers.md) | Not assessed | 0 (1 ledger link) |
 | [Buy after momentum capitulates](../../investment-ideas/theses/buy-after-momentum-capitulation.md) | Not assessed | 1 |
 | [Markets trade narratives, not data](../../investment-ideas/theses/narrative-driven-macro-prints.md) | Not assessed | 1 |
 | [Private credit risk is understated](../../investment-ideas/theses/private-credit-hidden-risk.md) | Not assessed | 1 |
