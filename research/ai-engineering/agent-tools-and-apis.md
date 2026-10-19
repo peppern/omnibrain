@@ -2,7 +2,7 @@
 
 > Practices and tools are what the cited sources say (verbatim evidence). **Proposals are the agent's inferences** for Noah's agents/repos, each grounded in at least one quoted source claim.
 
-Theme: `agent-tools-and-apis` · Sources: 3 · Published 2026-02-05 → 2026-10-15 · First seen by pipeline: 2026-10-16
+Theme: `agent-tools-and-apis` · Sources: 4 · Published 2026-02-05 → 2026-10-16 · First seen by pipeline: 2026-10-16
 
 Tools, models and APIs agents can call; packaging capabilities for agents.
 
@@ -10,11 +10,13 @@ Tools, models and APIs agents can call; packaging capabilities for agents.
 
 - A key lesson attributed to @steipete: package capabilities as a CLI plus an agent skill. — “make everything a cli + skill” (main) [@aniketapanjwani, 2026-02-05](https://x.com/aniketapanjwani/status/2019401717364748767)
 - Practitioners disagree about 'ralph loops' (long autonomous agent loops): Matt Pocock is bullish, Peter Steinberger bearish. — “Matt is really bullish on ralph whereas Peter is really bearish” (main) [@aniketapanjwani, 2026-02-05](https://x.com/aniketapanjwani/status/2019401717364748767)
+- Wrap a platform's raw MCP in a tool that applies your saved preferences (copy, settings, URLs) on every call instead of specifying them by hand each time. — “we launch your ads with every nuanced preference already applied” (main) / “raw-dogging Meta's MCP to launch ads” (main) [@champagnekofi, 2026-10-16](https://x.com/champagnekofi/status/2111086010222477440)
 
 ## Tools
 
 - **Indra OCR (Datalab)**: A 1M-parameter OCR model claimed at 49 pages/s on CPU, 11x faster than PaddleOCR and 17x faster than Tesseract, with layout and line boxes. — “49 pages/s on CPU, 11x faster than PaddleOCR and 17x Tesseract” (main) / “Full layout and line bounding boxes” (main) [@VikParuchuri, 2026-10-13](https://x.com/VikParuchuri/status/2110058905875460393)
 - **Openverse API** (<https://api.openverse.org/v1/>): Free, keyless API to search 5.2M+ openly licensed sound effects, ambience and music clips, usable by an agent editing videos. — “you can give it a library of 5.2M+ audio files for $0” (main) / “openverse has a free api. no key needed.” (main) [@ElliotPadfield, 2026-10-15](https://x.com/ElliotPadfield/status/2110764303087288788)
+- **Ad launch MCP (Peter Czepiga)**: Launches Meta ads with saved preferences such as copy, Advantage+ settings and URL already applied. — “the right copy, Adv+ preferences, URL, and more” (main) [@champagnekofi, 2026-10-16](https://x.com/champagnekofi/status/2111086010222477440)
 
 ## Proposed improvements (agent inference)
 
@@ -60,3 +62,5 @@ Also in [`improvement-backlog.jsonl`](improvement-backlog.jsonl).
 - `2026-10-13` [@VikParuchuri, 2026-10-13](https://x.com/VikParuchuri/status/2110058905875460393): Indra beats PaddleOCR and Tesseract on a text benchmark. — “Beats them on OmniParseBench text” (main)
 - `2026-10-15` [@ElliotPadfield, 2026-10-15](https://x.com/ElliotPadfield/status/2110764303087288788): Free, keyless API to search 5.2M+ openly licensed sound effects, ambience and music clips, usable by an agent editing videos. — “you can give it a library of 5.2M+ audio files for $0” (main) / “openverse has a free api. no key needed.” (main)
 - `2026-10-15` [@ElliotPadfield, 2026-10-15](https://x.com/ElliotPadfield/status/2110764303087288788): Agents can search Openverse whenever sound effects are needed. — “whenever you need sound effects search Openverse to find the best options” (main)
+- `2026-10-16` [@champagnekofi, 2026-10-16](https://x.com/champagnekofi/status/2111086010222477440): Wrap a platform's raw MCP in a tool that applies your saved preferences (copy, settings, URLs) on every call instead of specifying them by hand each time. — “we launch your ads with every nuanced preference already applied” (main) / “raw-dogging Meta's MCP to launch ads” (main)
+- `2026-10-16` [@champagnekofi, 2026-10-16](https://x.com/champagnekofi/status/2111086010222477440): Launches Meta ads with saved preferences such as copy, Advantage+ settings and URL already applied. — “the right copy, Adv+ preferences, URL, and more” (main)
