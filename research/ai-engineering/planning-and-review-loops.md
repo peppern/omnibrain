@@ -2,7 +2,7 @@
 
 > Practices and tools are what the cited sources say (verbatim evidence). **Proposals are the agent's inferences** for Noah's agents/repos, each grounded in at least one quoted source claim.
 
-Theme: `planning-and-review-loops` · Sources: 3 · Published 2024-08-03 → 2026-02-05 · First seen by pipeline: 2026-10-16
+Theme: `planning-and-review-loops` · Sources: 4 · Published 2024-08-03 → 2026-10-15 · First seen by pipeline: 2026-10-16
 
 Plan, critique and review patterns for coding agents.
 
@@ -17,6 +17,10 @@ Plan, critique and review patterns for coding agents.
 - Optionally a third agent judges both plans against the existing codebase. — “spin up a 3rd Claude and ask it evaluate both plans in the context of the existing codebase” (main) [@JohnONolan, 2025-07-09](https://x.com/JohnONolan/status/1942889686646521900)
 - A key lesson attributed to @steipete: package capabilities as a CLI plus an agent skill. — “make everything a cli + skill” (main) [@aniketapanjwani, 2026-02-05](https://x.com/aniketapanjwani/status/2019401717364748767)
 - Practitioners disagree about 'ralph loops' (long autonomous agent loops): Matt Pocock is bullish, Peter Steinberger bearish. — “Matt is really bullish on ralph whereas Peter is really bearish” (main) [@aniketapanjwani, 2026-02-05](https://x.com/aniketapanjwani/status/2019401717364748767)
+- Route general (not item-specific) review feedback into one shared standards markdown file that every related skill references, so the skills improve as feedback accumulates. — “if I give feedback that is generally applicable across the board” (transcript) / “make sure you log it into that MD file and that MD file feeds all the skills” (transcript) [@alexgoughcooper, 2026-10-15](https://x.com/alexgoughcooper/status/2110853666739556518)
+- Seed a skill's rules by having the agent compile past reviewer feedback (30 days of comments in the review tool) into a document. — “I want you to look into frame for the last 30 days and compile all of the feedback that all of my team have given” (transcript) [@alexgoughcooper, 2026-10-15](https://x.com/alexgoughcooper/status/2110853666739556518)
+- Split a general skill into style-specific skills, each built from three or four examples of that style. — “have a look at these four ads and I want you to make a skill based on this edit style” (transcript) [@alexgoughcooper, 2026-10-15](https://x.com/alexgoughcooper/status/2110853666739556518)
+- Build feedback loops into whatever the agent produces and make them accessible to the whole team. — “build feedback loops in and make it accessible for your team” (transcript) [@alexgoughcooper, 2026-10-15](https://x.com/alexgoughcooper/status/2110853666739556518)
 
 ## Proposed improvements (agent inference)
 
@@ -74,3 +78,7 @@ Also in [`improvement-backlog.jsonl`](improvement-backlog.jsonl).
 - `2026-02-05` [@aniketapanjwani, 2026-02-05](https://x.com/aniketapanjwani/status/2019401717364748767): A key lesson attributed to @steipete: package capabilities as a CLI plus an agent skill. — “make everything a cli + skill” (main)
 - `2026-02-05` [@aniketapanjwani, 2026-02-05](https://x.com/aniketapanjwani/status/2019401717364748767): Practitioners disagree about 'ralph loops' (long autonomous agent loops): Matt Pocock is bullish, Peter Steinberger bearish. — “Matt is really bullish on ralph whereas Peter is really bearish” (main)
 - `2026-02-05` [@aniketapanjwani, 2026-02-05](https://x.com/aniketapanjwani/status/2019401717364748767): Make everything a CLI plus a skill. — “make everything a cli + skill” (main)
+- `2026-10-15` [@alexgoughcooper, 2026-10-15](https://x.com/alexgoughcooper/status/2110853666739556518): Route general (not item-specific) review feedback into one shared standards markdown file that every related skill references, so the skills improve as feedback accumulates. — “if I give feedback that is generally applicable across the board” (transcript) / “make sure you log it into that MD file and that MD file feeds all the skills” (transcript)
+- `2026-10-15` [@alexgoughcooper, 2026-10-15](https://x.com/alexgoughcooper/status/2110853666739556518): Seed a skill's rules by having the agent compile past reviewer feedback (30 days of comments in the review tool) into a document. — “I want you to look into frame for the last 30 days and compile all of the feedback that all of my team have given” (transcript)
+- `2026-10-15` [@alexgoughcooper, 2026-10-15](https://x.com/alexgoughcooper/status/2110853666739556518): Split a general skill into style-specific skills, each built from three or four examples of that style. — “have a look at these four ads and I want you to make a skill based on this edit style” (transcript)
+- `2026-10-15` [@alexgoughcooper, 2026-10-15](https://x.com/alexgoughcooper/status/2110853666739556518): Build feedback loops into whatever the agent produces and make them accessible to the whole team. — “build feedback loops in and make it accessible for your team” (transcript)
