@@ -1,6 +1,6 @@
 # X Bookmarks
 
-Source: Noah Pepper's (@noahmp) X bookmarks, 85 posts, published 2018-03-20 → 2026-10-18; 25 marked partial.  
+Source: Noah Pepper's (@noahmp) X bookmarks, 85 posts, published 2018-03-20 → 2026-10-18; 24 marked partial.  
 Point: a condensed, source-grounded index of saved posts. Each note in `notes/` has the link, author, date, topic, main point, takeaways, and transcript link when there's a video. See [digest.md](digest.md) for cross-topic themes.
 
 ## Pipeline
