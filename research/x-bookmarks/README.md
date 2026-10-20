@@ -1,6 +1,6 @@
 # X Bookmarks
 
-Source: Noah Pepper's (@noahmp) X bookmarks, 84 posts, published 2018-03-20 → 2026-10-17; 24 marked partial.  
+Source: Noah Pepper's (@noahmp) X bookmarks, 85 posts, published 2018-03-20 → 2026-10-18; 24 marked partial.  
 Point: a condensed, source-grounded index of saved posts. Each note in `notes/` has the link, author, date, topic, main point, takeaways, and transcript link when there's a video. See [digest.md](digest.md) for cross-topic themes.
 
 ## Pipeline
@@ -12,18 +12,19 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 ## Topics
 
 
-### Misc / Science / Lifestyle (18)
+### Misc / Science / Lifestyle (19)
 
+- [@poteto announced pstack v0.15.27 with a beta meta-skill, /create-formal-verification-skill, that generates a …](notes/2026-10-18-poteto-2111926622278521253.md) — @poteto, 2026-10-18
 - [Jev paired with Grok Bot can cut fork costs from about $110/day to about $4 by letting a cheap model score not…](notes/2026-10-17-0x-rody-2111491014053511341.md) — @0x_rody, 2026-10-17
 - [Mignano argues agentic AI will reorganize markets the way internet and then mobile/cloud did, hitting incumben…](notes/2026-10-17-mignano-2111566624855560200.md) — @mignano, 2026-10-17
 - [Doris Tsao's lab reports a preprint claiming consciousness has an unexpected neural structure that overturns d…](notes/2026-10-17-doristsao-2111316522098733078.md) — @doristsao, 2026-10-17
 - [Seven repos are pitched as compilers that turn notes into a linked knowledge base Claude can maintain, not as …](notes/2026-10-16-rvaniaaaa-2111085365171790269.md) — @rvaniaaaa, 2026-10-16
-- [A promotional claim that wiring Grok Bot to Jev for SEO decisions and actions will mint more millionaires in 2…](notes/2026-10-16-irongiantxbt-2110974016555286817.md) — @irongiantXBT, 2026-10-16
-- [A 34-minute workshop (attributed to SpaceXAI engineer Lauren Tan) on running Grok Bot as a coordinated fleet: …](notes/2026-10-16-iiiichigo-chan-2111144368547487835.md) — @iiiichigo_chan, 2026-10-16
-- [Ten high-star open tools mapped to a solo motion-design pipeline from storyboard to encoded MP4.](notes/2026-10-16-beamnxw-2111125001482936542.md) — @beamnxw, 2026-10-16
+- [The post is a hype claim that pairing Grok Bot with Jev for SEO decisions and actions will create more million…](notes/2026-10-16-irongiantxbt-2110974016555286817.md) — @irongiantXBT, 2026-10-16
+- [The video is a 34-minute clip from a Grok Bot livestream where Lauren Tan and two co-hosts plan a Grok Bot mer…](notes/2026-10-16-iiiichigo-chan-2111144368547487835.md) — @iiiichigo_chan, 2026-10-16
+- [The post maps ten open-source tools, which it says have over 542K combined GitHub stars, onto one solo motion-…](notes/2026-10-16-beamnxw-2111125001482936542.md) — @beamnxw, 2026-10-16
 - [Champagne Kofi endorses an ad-launch MCP from Peter Czepiga that applies saved Meta ads preferences (copy, Adv…](notes/2026-10-16-champagnekofi-2111086010222477440.md) — @champagnekofi, 2026-10-16
 - [Alexandr Wang reacts with over-the-top enthusiasm to an AI-generated 'slop' video by @thoughtcrime___, made fo…](notes/2026-10-16-alexandr-wang-2110913638701916459.md) — @alexandr_wang, 2026-10-16
-- [Alex Gough Cooper posted a 49-minute walkthrough of editing Facebook ads with Opus 5.5.](notes/2026-10-15-alexgoughcooper-2110853666739556518.md) — @alexgoughcooper, 2026-10-15
+- [Alex Gough Cooper's 49-minute live session argues that ad video editing can now be done entirely by an agent i…](notes/2026-10-15-alexgoughcooper-2110853666739556518.md) — @alexgoughcooper, 2026-10-15
 - [A list of ten open repos pitched as an end-to-end AI content factory: scripting, research, images, voice, musi…](notes/2026-10-15-heyrimsha-2110687947423088920.md) — @heyrimsha, 2026-10-15
 - [A link to an X Article by Sydney Runkle; the article couldn't be fetched (404 to non-logged-in readers), so it…](notes/2026-09-18-sydneyrunkle-2100754364545761643.md) — @sydneyrunkle, 2026-09-18
 - [Naomi Wu (Dec 2021) starts a crowdsourced thread of maker/STEM projects to do at home with kids during the hol…](notes/2021-12-21-realsexycyborg-1473101836299083779.md) — @RealSexyCyborg, 2021-12-21

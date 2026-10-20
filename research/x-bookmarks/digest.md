@@ -1,6 +1,6 @@
 # X Bookmarks Digest
 
-Source: [84 bookmark notes](README.md)  
+Source: [85 bookmark notes](README.md)  
 Point: themes that recur across Noah's saved posts, by topic.
 
 > Conventions: each claim links its supporting notes. Notes marked *(partial)* rest on incomplete source content (see the note's `Completeness` line); treat those as leads, not settled knowledge. Dates are **publication dates**. X doesn't expose when a post was bookmarked, so nothing here describes save order; `first_observed` (when the pipeline first saw a bookmark) is recorded from 2026-10-16 on.
