@@ -1,6 +1,6 @@
 # X Bookmarks
 
-Source: Noah Pepper's (@noahmp) X bookmarks, 85 posts, published 2018-03-20 → 2026-10-18; 24 marked partial.  
+Source: Noah Pepper's (@noahmp) X bookmarks, 87 posts, published 2018-03-20 → 2026-10-20; 24 marked partial.  
 Point: a condensed, source-grounded index of saved posts. Each note in `notes/` has the link, author, date, topic, main point, takeaways, and transcript link when there's a video. See [digest.md](digest.md) for cross-topic themes.
 
 ## Pipeline
@@ -34,8 +34,9 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 - [A reply linking an SSRN preprint; SSRN blocked fetching, so the paper's topic is unknown.](notes/2018-07-16-degenrolf-1018880837251674113.md) — @DegenRolf, 2018-07-16
 - [Mahendra Parekh shares the 2018 IceCube result tracing high-energy neutrinos to a blazar; the NYT article retu…](notes/2018-07-14-mparekh-1017973696210718720.md) — @MParekh, 2018-07-14
 
-### AI & Coding Tools (15)
+### AI & Coding Tools (16)
 
+- [Gresham says an AI-agent swarm can be made far cheaper by cutting wasted work (oversized inputs, repeated rese…](notes/2026-10-19-greshamtrade-2112270735116812640.md) — @Greshamtrade, 2026-10-19
 - [Nick Cammarata, who did early interpretability work at OpenAI, now believes the problem of understanding what'…](notes/2026-10-15-nickcammarata-2110757819427574056.md) — @nickcammarata, 2026-10-15
 - [If you have Claude edit videos, you can point it at Openverse's free, keyless API to search 5.2M+ sound effect…](notes/2026-10-15-elliotpadfield-2110764303087288788.md) — @ElliotPadfield, 2026-10-15
 - [Vik Paruchuri announced Indra, a 1M-parameter OCR model from Datalab that is much faster than common open-sour…](notes/2026-10-13-vikparuchuri-2110058905875460393.md) — @VikParuchuri, 2026-10-13
@@ -52,23 +53,9 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 - [Nat Friedman: when StackOverflow dies, AI labs can simply pay for training data, and it's cheap.](notes/2023-07-26-natfriedman-1684303687894839296.md) — @natfriedman, 2023-07-26
 - [Barsee's 2023 thread (recovered) collects 13 examples of realistic AI-generated voices and music.](notes/2023-04-05-heybarsee-1643517640881651712.md) — @heyBarsee, 2023-04-05
 
-### Software, Startups & Tech (12)
+### Investing & Personal Finance (13)
 
-- [Dan Fessler released TrellisWM, a 'fractal' window manager for macOS that nests windows inside each other on a…](notes/2026-10-13-danfessler-2109901960132305311.md) — @DanFessler, 2026-10-13
-- [Tobi Lütke calls Vercel Labs' gpu-lexer 'so clever': a 27.5KB model that does syntax highlighting on the GPU i…](notes/2026-09-09-tobi-2097641185003049419.md) — @tobi, 2026-09-09
-- [Jason Leow built a free tool that adds a LinkedIn-style banner badge to any profile picture.](notes/2024-09-27-jasonleowsg-1839612955685785671.md) — @jasonleowsg, 2024-09-27
-- [Sebastian Bensusan: databases matter more than the code using them, so share Max Tagher's guide on documenting…](notes/2024-08-09-sebasbensu-1821972759658066429.md) — @sebasbensu, 2024-08-09
-- [Sashko Stubailo shows how he turns email newsletters into MP3s to listen to while walking or running.](notes/2021-11-22-stubailo-1462615845482295298.md) — @stubailo, 2021-11-22
-- [Chris Messina highlights Goldfinch's 'Unique Identity' NFT, pitched as the first NFT for identity; the Medium …](notes/2021-11-06-chrismessina-1457022332225024001.md) — @chrismessina, 2021-11-06
-- [Patrick McKenzie calls the 2021 OpenAI Codex live demo the most ludicrous tech demo since Twilio's.](notes/2021-09-10-patio11-1436239651778351108.md) — @patio11, 2021-09-10
-- [Balaji Srinivasan: Google is 'becoming evil', and a Helm personal email server (under $300) protects you; the …](notes/2021-07-29-balajis-1420567062104088582.md) — @balajis, 2021-07-29
-- [Raffi Lotun (ex-Twitter) says open APIs become a hard constraint once you solve customer problems in sophistic…](notes/2018-08-17-rlotun-1030595242133577728.md) — @rlotun, 2018-08-17
-- [Pieter Levels built a Nomad List page that tests 1,000,000 variable combinations across 1,000+ cities to surfa…](notes/2018-08-05-levelsio-1026157119353933824.md) — @levelsio, 2018-08-05
-- [Ryan Hoover says Stripe should build Rewardful, a simple way for SaaS companies to run affiliate and referral …](notes/2018-08-03-rrhoover-1025381331684007941.md) — @rrhoover, 2018-08-03
-- [Gwern recommends two essays: 'Commoditize Your Complement', which he calls the key Silicon Valley economic pat…](notes/2018-06-15-gwern-1007459876182921218.md) — @gwern, 2018-06-15
-
-### Investing & Personal Finance (12)
-
+- [Will Manidis says the easy way to get leveraged, liquid exposure to the AI buildout is through commodities lik…](notes/2026-10-20-willmanidis-2112582008010604549.md) — @WillManidis, 2026-10-20
 - [BuccoCapital jokes that his investing edge on X is to buy whatever the 'second derivative / rate of change' cr…](notes/2026-10-13-buccocapital-2110134294756597812.md) — @buccocapital, 2026-10-13
 - [A Fundamental Edge × Perplexity webinar shows Perplexity used live for institutional-style equity research (tr…](notes/2025-06-13-davidtaggart-1933655565798187274.md) — @DavidTaggart, 2025-06-13
 - [The 'totally accurate risk assessment' joke is a chart showing private credit with about 9% return at about 3%…](notes/2025-03-08-junkbondinvest-1898447057108566149.md) — @junkbondinvest, 2025-03-08
@@ -81,6 +68,21 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 - [Paul Millerd's thread (recovered in full) shows that the '40% of Americans can't cover $400' headline misreads…](notes/2019-04-16-p-millerd-1118071142311288838.md) — @p_millerd, 2019-04-16
 - [Epsilon Theory's 'The Icarus Moment' argues that markets and politics now trade on cartoon-like abstractions o…](notes/2018-03-21-epsilontheory-976553846641250305.md) — @EpsilonTheory, 2018-03-21
 - [Sam Dogen (Financial Samurai) is betting on heartland and Sunbelt real estate as a decades-long trend driven b…](notes/2018-03-20-financialsamura-976142396655255552.md) — @financialsamura, 2018-03-20
+
+### Software, Startups & Tech (12)
+
+- [Dan Fessler released TrellisWM, a 'fractal' window manager for Apple-silicon Macs that docks, tabs and nests r…](notes/2026-10-13-danfessler-2109901960132305311.md) — @DanFessler, 2026-10-13
+- [Tobi Lütke calls Vercel Labs' gpu-lexer 'so clever': a 27.5KB model that does syntax highlighting on the GPU i…](notes/2026-09-09-tobi-2097641185003049419.md) — @tobi, 2026-09-09
+- [Jason Leow built a free web tool that adds a LinkedIn-style curved banner badge to any profile picture, with w…](notes/2024-09-27-jasonleowsg-1839612955685785671.md) — @jasonleowsg, 2024-09-27
+- [Sebastian Bensusan: databases matter more than the code using them, so share Max Tagher's guide on documenting…](notes/2024-08-09-sebasbensu-1821972759658066429.md) — @sebasbensu, 2024-08-09
+- [Sashko Stubailo shows how he turns email newsletters into MP3s to listen to while walking or running.](notes/2021-11-22-stubailo-1462615845482295298.md) — @stubailo, 2021-11-22
+- [Chris Messina highlights Goldfinch's 'Unique Identity' NFT, pitched as the first NFT for identity; the Medium …](notes/2021-11-06-chrismessina-1457022332225024001.md) — @chrismessina, 2021-11-06
+- [Patrick McKenzie calls the 2021 OpenAI Codex live demo the most ludicrous tech demo since Twilio's.](notes/2021-09-10-patio11-1436239651778351108.md) — @patio11, 2021-09-10
+- [Balaji Srinivasan: Google is 'becoming evil', and a Helm personal email server (under $300) protects you; the …](notes/2021-07-29-balajis-1420567062104088582.md) — @balajis, 2021-07-29
+- [Raffi Lotun (ex-Twitter) says open APIs become a hard constraint once you solve customer problems in sophistic…](notes/2018-08-17-rlotun-1030595242133577728.md) — @rlotun, 2018-08-17
+- [Pieter Levels built a Nomad List page that tests 1,000,000 variable combinations across 1,000+ cities to surfa…](notes/2018-08-05-levelsio-1026157119353933824.md) — @levelsio, 2018-08-05
+- [Ryan Hoover says Stripe should build Rewardful, a simple way for SaaS companies to run affiliate and referral …](notes/2018-08-03-rrhoover-1025381331684007941.md) — @rrhoover, 2018-08-03
+- [Gwern recommends two essays: 'Commoditize Your Complement', which he calls the key Silicon Valley economic pat…](notes/2018-06-15-gwern-1007459876182921218.md) — @gwern, 2018-06-15
 
 ### Books, Learning & Ideas (8)
 

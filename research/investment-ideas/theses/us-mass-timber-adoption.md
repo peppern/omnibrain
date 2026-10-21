@@ -4,7 +4,7 @@
 
 **Status:** candidate · **Conviction:** — · **Direction:** bullish · **Subject:** theme: Mass timber / cross-laminated timber (construction, building materials, timber, US; identifiers are agent/Noah-assigned)
 
-Thesis: `us-mass-timber-adoption` · Created 2026-10-17 · Updated 2026-10-17 · Evidence: 1 source(s), published 2018-08-26 → 2018-08-26
+Thesis: `us-mass-timber-adoption` · Created 2026-10-17 · Updated 2026-10-17 · Evidence: 1 source(s), published 2018-08-26 → 2018-08-26, content as of 2026-10-16 → 2026-10-16
 
 ## Claim
 
@@ -29,15 +29,15 @@ _No current view yet (`omni tracks view generate us-mass-timber-adoption`)._
 
 ## Evidence from sources
 
-- **exploratory** · theme-watch · [@thebuckst0p, 2018-08-26](https://x.com/thebuckst0p/status/1033537234220109824): Mass timber is growing in Europe and Canada, but US projects were scarce and none exceeded the building code's six-story Type IV limit. — “none exceed the IBC's six-story Type IV limit” (main) _(caveats: source is about construction technology, not investing; the investable angle is the agent's framing; linked article (2017) known via a WebFetch extraction)_
+- **exploratory** · theme-watch · [@thebuckst0p, 2018-08-26; content retrieved 2026-10-16](https://x.com/thebuckst0p/status/1033537234220109824): Mass timber is growing in Europe and Canada, but US projects were scarce and none exceeded the building code's six-story Type IV limit. — “none exceed the IBC's six-story Type IV limit” (main) _(caveats: source is about construction technology, not investing; the investable angle is the agent's framing; linked article (2017) known via a WebFetch extraction)_
 
 ### Catalysts cited by sources
 
-- A tiered, height-based code for tall timber was proposed for the 2021 IBC. — “a tiered height-based code was proposed for the 2021 IBC” (main) [@thebuckst0p, 2018-08-26](https://x.com/thebuckst0p/status/1033537234220109824)
+- A tiered, height-based code for tall timber was proposed for the 2021 IBC. — “a tiered height-based code was proposed for the 2021 IBC” (main) [@thebuckst0p, 2018-08-26; content retrieved 2026-10-16](https://x.com/thebuckst0p/status/1033537234220109824)
 
 ### Risks cited by sources
 
-- The six-story cap rests on a fire-ladder-reach standard the article calls archaic, i.e. adoption depends on regulators. — “The six-story limit is based on an archaic standard that a fire department ladder must reach the top floor” (main) [@thebuckst0p, 2018-08-26](https://x.com/thebuckst0p/status/1033537234220109824)
+- The six-story cap rests on a fire-ladder-reach standard the article calls archaic, i.e. adoption depends on regulators. — “The six-story limit is based on an archaic standard that a fire department ladder must reach the top floor” (main) [@thebuckst0p, 2018-08-26; content retrieved 2026-10-16](https://x.com/thebuckst0p/status/1033537234220109824)
 
 ### Assets named
 
@@ -47,9 +47,9 @@ _No current view yet (`omni tracks view generate us-mass-timber-adoption`)._
 
 ### Evidence log
 
-- `2018-08-26` [@thebuckst0p, 2018-08-26](https://x.com/thebuckst0p/status/1033537234220109824): Mass timber is growing in Europe and Canada, but US projects were scarce and none exceeded the building code's six-story Type IV limit. — “none exceed the IBC's six-story Type IV limit” (main)
-- `2018-08-26` [@thebuckst0p, 2018-08-26](https://x.com/thebuckst0p/status/1033537234220109824): A tiered, height-based code for tall timber was proposed for the 2021 IBC. — “a tiered height-based code was proposed for the 2021 IBC” (main)
-- `2018-08-26` [@thebuckst0p, 2018-08-26](https://x.com/thebuckst0p/status/1033537234220109824): The six-story cap rests on a fire-ladder-reach standard the article calls archaic, i.e. adoption depends on regulators. — “The six-story limit is based on an archaic standard that a fire department ladder must reach the top floor” (main)
+- `2026-10-16` [@thebuckst0p, 2018-08-26; content retrieved 2026-10-16](https://x.com/thebuckst0p/status/1033537234220109824): Mass timber is growing in Europe and Canada, but US projects were scarce and none exceeded the building code's six-story Type IV limit. — “none exceed the IBC's six-story Type IV limit” (main)
+- `2026-10-16` [@thebuckst0p, 2018-08-26; content retrieved 2026-10-16](https://x.com/thebuckst0p/status/1033537234220109824): A tiered, height-based code for tall timber was proposed for the 2021 IBC. — “a tiered height-based code was proposed for the 2021 IBC” (main)
+- `2026-10-16` [@thebuckst0p, 2018-08-26; content retrieved 2026-10-16](https://x.com/thebuckst0p/status/1033537234220109824): The six-story cap rests on a fire-ladder-reach standard the article calls archaic, i.e. adoption depends on regulators. — “The six-story limit is based on an archaic standard that a fire department ladder must reach the top floor” (main)
 
 ## Research queue
 

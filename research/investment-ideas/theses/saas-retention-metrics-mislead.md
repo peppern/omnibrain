@@ -4,7 +4,7 @@
 
 **Status:** candidate · **Conviction:** — · **Direction:** — · **Subject:** theme: SaaS metric quality (software; identifiers are agent/Noah-assigned)
 
-Thesis: `saas-retention-metrics-mislead` · Created 2026-10-17 · Updated 2026-10-17 · Evidence: 1 source(s), published 2020-06-27 → 2020-06-27
+Thesis: `saas-retention-metrics-mislead` · Created 2026-10-17 · Updated 2026-10-17 · Evidence: 1 source(s), published 2020-06-27 → 2020-06-27, content as of 2026-10-16 → 2026-10-16
 
 ## Claim
 
@@ -28,11 +28,11 @@ _No current view yet (`omni tracks view generate saas-retention-metrics-mislead`
 
 ## Evidence from sources
 
-- **skeptical** · risk-signal · [@seandougfan, 2020-06-27](https://x.com/seandougfan/status/1276903394725199872): Public SaaS companies define retention inconsistently (23 different names for net dollar retention alone), which can mislead investors. — “there are 23 different “names” for net dollar retention alone” (main) / “investors are being taken for a ride by some pub SaaS cos.” (main) _(caveats: the source says it is neither alleging fraud nor positioning for an investment thesis; 2020 data)_
+- **skeptical** · risk-signal · [@seandougfan, 2020-06-27; content retrieved 2026-10-16](https://x.com/seandougfan/status/1276903394725199872): Public SaaS companies define retention inconsistently (23 different names for net dollar retention alone), which can mislead investors. — “there are 23 different “names” for net dollar retention alone” (main) / “investors are being taken for a ride by some pub SaaS cos.” (main) _(caveats: the source says it is neither alleging fraud nor positioning for an investment thesis; 2020 data)_
 
 ### Risks cited by sources
 
-- Fastly's 130% net dollar retention excluded churned customers while it re-rated from about 7x to about 30x NTM revenue. — “boasts 130% net dollar retention - excludes churned customers from their calculation of NDR” (main) [@seandougfan, 2020-06-27](https://x.com/seandougfan/status/1276903394725199872)
+- Fastly's 130% net dollar retention excluded churned customers while it re-rated from about 7x to about 30x NTM revenue. — “boasts 130% net dollar retention - excludes churned customers from their calculation of NDR” (main) [@seandougfan, 2020-06-27; content retrieved 2026-10-16](https://x.com/seandougfan/status/1276903394725199872)
 
 ### Assets named
 
@@ -44,8 +44,8 @@ _No current view yet (`omni tracks view generate saas-retention-metrics-mislead`
 
 ### Evidence log
 
-- `2020-06-27` [@seandougfan, 2020-06-27](https://x.com/seandougfan/status/1276903394725199872): Public SaaS companies define retention inconsistently (23 different names for net dollar retention alone), which can mislead investors. — “there are 23 different “names” for net dollar retention alone” (main) / “investors are being taken for a ride by some pub SaaS cos.” (main)
-- `2020-06-27` [@seandougfan, 2020-06-27](https://x.com/seandougfan/status/1276903394725199872): Fastly's 130% net dollar retention excluded churned customers while it re-rated from about 7x to about 30x NTM revenue. — “boasts 130% net dollar retention - excludes churned customers from their calculation of NDR” (main)
+- `2026-10-16` [@seandougfan, 2020-06-27; content retrieved 2026-10-16](https://x.com/seandougfan/status/1276903394725199872): Public SaaS companies define retention inconsistently (23 different names for net dollar retention alone), which can mislead investors. — “there are 23 different “names” for net dollar retention alone” (main) / “investors are being taken for a ride by some pub SaaS cos.” (main)
+- `2026-10-16` [@seandougfan, 2020-06-27; content retrieved 2026-10-16](https://x.com/seandougfan/status/1276903394725199872): Fastly's 130% net dollar retention excluded churned customers while it re-rated from about 7x to about 30x NTM revenue. — “boasts 130% net dollar retention - excludes churned customers from their calculation of NDR” (main)
 
 ## Research queue
 

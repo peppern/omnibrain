@@ -6,7 +6,7 @@
 
 > Generated from the Omniscience evidence ledger. Quotes are verbatim from the cited sources. Relationships, rationales, suggested matches and candidate framing are agent routing judgments, not owner decisions; thesis status, conviction and framing change only through Noah. Not investment advice.
 
-**0** unresolved · 0 resolved · **1** current links (0 stale) · 0 corrections · 1 candidate proposals · 1 sources · 1 observations.
+**0** unresolved · 0 resolved · **2** current links (0 stale) · 0 corrections · 2 candidate proposals · 2 sources · 2 observations.
 
 Machine-readable: [`generated-sources.jsonl`](generated-sources.jsonl), [`generated-observations.jsonl`](generated-observations.jsonl), [`generated-links.jsonl`](generated-links.jsonl), [`generated-supersessions.jsonl`](generated-supersessions.jsonl), [`generated-inbox.jsonl`](generated-inbox.jsonl), [`generated-candidates.jsonl`](generated-candidates.jsonl), [`generated-routings.jsonl`](generated-routings.jsonl).
 
@@ -28,6 +28,14 @@ Distinct sources (reposts count once; stale links excluded): supports 1 · chall
 | --- | --- | --- | --- | --- | --- | --- |
 | `ba2b080ed298` | supports (claim, mechanism) | Mignano argues agents will reorganize markets as the internet and mobile did, because incumbents can't tear down their UIs and business models, and categories that monetize gatekept institutional knowledge (law, medicine, personal finance) are most exposed. (source-opinion) | “Incumbents can’t simply tear down their UIs and business models to pivot” (main) / “categories that have historically monetized gatekept institutional knowledge will be most susceptible” (main) / “Law is obviously at risk (Harvey and Legora are exploding)” (main) | 2026-10-17 | The post makes a specific structural claim about which incumbents agents will displace and why (inability to pivot UIs and business models), which no existing thesis covers. | 0.5 |
 
+### `ai-exposure-via-energy-commodities` (candidate)
+
+Distinct sources (reposts count once; stale links excluded): supports 1 · challenges 0 · qualifies 0 · context 0
+
+| Link | Relationship | Observation | Quotes | Source date | Rationale | Confidence |
+| --- | --- | --- | --- | --- | --- | --- |
+| `08b377db8861` | supports (claim, mechanism) | Will Manidis says copper, power and similar commodities give fee-free, liquid, leverageable exposure to AI that almost no one is using; the quoted clip has Fred Wilson saying the simple way to bet on AI is to bet on energy. (source-opinion) | “you can basically get fee-free, liquid, and leverageable frontier-ish exposure with copper/power/etc today and basically no one cares” (main) / “if you really want just a simple way to bet on AI” (transcript) / “just bet on energy” (transcript) | 2026-10-20 | Both the post and the quoted Fred Wilson clip argue that energy and commodities are the simple way to bet on AI. | 0.6 |
+
 ## Context-only observations
 
 _None._
@@ -45,6 +53,19 @@ _None._
 - **Considered `sunbelt-heartland-real-estate`:** That thesis is about regional real-estate demand shifts, not about AI agents displacing knowledge businesses.
 - **Considered `buy-after-momentum-capitulation`:** That thesis is a trading pattern about exhausted momentum selling, not a structural claim about which industries agents disrupt.
 - **Considered `private-credit-hidden-risk`:** That thesis is about appraisal-based marks hiding private-credit risk, not about agent-driven disruption of incumbents.
+
+### `ai-exposure-via-energy-commodities`: Bet on AI through energy and commodities (candidate)
+
+- **Distinct claim:** Energy and commodities like copper are an overlooked, liquid way to get leveraged AI exposure.
+- **Mechanism:** AI data centers and their build-out need large amounts of power and copper, so demand for these rises with AI spending.
+- **Scope:** Energy, power and industrial-metal exposure (commodities, futures, related equities), multi-year horizon.
+- **Suggested by:** `d450db29cab9` from [Will Manidis says the easy way to get leveraged, liquid exposure to the AI buildout is through commodities like copper a](https://x.com/WillManidis/status/2112582008010604549) by WillManidis, 2026-10-20; proposed by box 2026-10-21
+- **Considered `agents-disrupt-knowledge-gatekeepers`:** That thesis is about AI agents displacing knowledge-gatekeeper incumbents, not about owning energy or commodities as a way to profit from AI demand.
+- **Considered `buy-after-momentum-capitulation`:** That thesis is about buying stocks after momentum sellers capitulate; this post is about commodity and power exposure to AI, not momentum dynamics.
+- **Considered `saas-retention-metrics-mislead`:** That thesis is about misleading SaaS retention metrics; it has nothing to say about energy or commodities as AI exposure.
+- **Considered `us-mass-timber-adoption`:** That thesis is about building codes and mass timber; the overlap is only the word building, not the AI-energy claim.
+- **Considered `robotaxi-value-capture`:** That thesis is about who captures the robotaxi profit pool; the shared term is incidental and the claim here is about energy and commodities.
+- **Considered `sunbelt-heartland-real-estate`:** That thesis is about remote work shifting demand to Heartland and Sunbelt real estate; it shares generic words (demand, supporting) but not the claim that energy and commodities are a way to bet on AI.
 
 ## Routing corrections
 
