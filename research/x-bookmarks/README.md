@@ -12,10 +12,8 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 ## Topics
 
 
-### Misc / Science / Lifestyle (21)
+### Misc / Science / Lifestyle (19)
 
-- [Will Manidis says the easy way to get leveraged, liquid exposure to the AI buildout is through commodities lik…](notes/2026-10-20-willmanidis-2112582008010604549.md) — @WillManidis, 2026-10-20
-- [Gresham says an AI-agent swarm can be made far cheaper by cutting wasted work (oversized inputs, repeated rese…](notes/2026-10-19-greshamtrade-2112270735116812640.md) — @Greshamtrade, 2026-10-19
 - [@poteto announced pstack v0.15.27 with a beta meta-skill, /create-formal-verification-skill, that generates a …](notes/2026-10-18-poteto-2111926622278521253.md) — @poteto, 2026-10-18
 - [Jev paired with Grok Bot can cut fork costs from about $110/day to about $4 by letting a cheap model score not…](notes/2026-10-17-0x-rody-2111491014053511341.md) — @0x_rody, 2026-10-17
 - [Mignano argues agentic AI will reorganize markets the way internet and then mobile/cloud did, hitting incumben…](notes/2026-10-17-mignano-2111566624855560200.md) — @mignano, 2026-10-17
@@ -36,8 +34,9 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 - [A reply linking an SSRN preprint; SSRN blocked fetching, so the paper's topic is unknown.](notes/2018-07-16-degenrolf-1018880837251674113.md) — @DegenRolf, 2018-07-16
 - [Mahendra Parekh shares the 2018 IceCube result tracing high-energy neutrinos to a blazar; the NYT article retu…](notes/2018-07-14-mparekh-1017973696210718720.md) — @MParekh, 2018-07-14
 
-### AI & Coding Tools (15)
+### AI & Coding Tools (16)
 
+- [Gresham says an AI-agent swarm can be made far cheaper by cutting wasted work (oversized inputs, repeated rese…](notes/2026-10-19-greshamtrade-2112270735116812640.md) — @Greshamtrade, 2026-10-19
 - [Nick Cammarata, who did early interpretability work at OpenAI, now believes the problem of understanding what'…](notes/2026-10-15-nickcammarata-2110757819427574056.md) — @nickcammarata, 2026-10-15
 - [If you have Claude edit videos, you can point it at Openverse's free, keyless API to search 5.2M+ sound effect…](notes/2026-10-15-elliotpadfield-2110764303087288788.md) — @ElliotPadfield, 2026-10-15
 - [Vik Paruchuri announced Indra, a 1M-parameter OCR model from Datalab that is much faster than common open-sour…](notes/2026-10-13-vikparuchuri-2110058905875460393.md) — @VikParuchuri, 2026-10-13
@@ -54,6 +53,22 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 - [Nat Friedman: when StackOverflow dies, AI labs can simply pay for training data, and it's cheap.](notes/2023-07-26-natfriedman-1684303687894839296.md) — @natfriedman, 2023-07-26
 - [Barsee's 2023 thread (recovered) collects 13 examples of realistic AI-generated voices and music.](notes/2023-04-05-heybarsee-1643517640881651712.md) — @heyBarsee, 2023-04-05
 
+### Investing & Personal Finance (13)
+
+- [Will Manidis says the easy way to get leveraged, liquid exposure to the AI buildout is through commodities lik…](notes/2026-10-20-willmanidis-2112582008010604549.md) — @WillManidis, 2026-10-20
+- [BuccoCapital jokes that his investing edge on X is to buy whatever the 'second derivative / rate of change' cr…](notes/2026-10-13-buccocapital-2110134294756597812.md) — @buccocapital, 2026-10-13
+- [A Fundamental Edge × Perplexity webinar shows Perplexity used live for institutional-style equity research (tr…](notes/2025-06-13-davidtaggart-1933655565798187274.md) — @DavidTaggart, 2025-06-13
+- [The 'totally accurate risk assessment' joke is a chart showing private credit with about 9% return at about 3%…](notes/2025-03-08-junkbondinvest-1898447057108566149.md) — @junkbondinvest, 2025-03-08
+- [Noah's own post: cash does distinct jobs, so size each one deliberately instead of holding too much or too lit…](notes/2024-04-02-noahmp-1774971102609195051.md) — @noahmp, 2024-04-02
+- [Russell Ledbetter's full thread explains who must file the new FinCEN Beneficial Ownership Information (BOI) r…](notes/2023-12-06-rledbettercpa-1732507366887665927.md) — @rledbetterCPA, 2023-12-06
+- [Peter Lynch, at the opening of 'Beating the Street', explains why he left Fidelity Magellan at 46 to spend tim…](notes/2023-11-30-dividendgrowth-1730244740153491528.md) — @DividendGrowth, 2023-11-30
+- [Robert Sterling warns that high-income but not wealthy parents can set kids' lifestyle expectations they won't…](notes/2023-11-25-robertmsterling-1728456737198383452.md) — @RobertMSterling, 2023-11-25
+- [Benn Eifert's thread argues that tail hedges lose money on their own yet can raise a rebalanced portfolio's lo…](notes/2021-02-19-bennpeifert-1362908515874955264.md) — @bennpeifert, 2021-02-19
+- [Sean Fanning warns that some public SaaS companies' metrics, like '>95% revenue retention', are defined in mis…](notes/2020-06-27-seandougfan-1276903394725199872.md) — @seandougfan, 2020-06-27
+- [Paul Millerd's thread (recovered in full) shows that the '40% of Americans can't cover $400' headline misreads…](notes/2019-04-16-p-millerd-1118071142311288838.md) — @p_millerd, 2019-04-16
+- [Epsilon Theory's 'The Icarus Moment' argues that markets and politics now trade on cartoon-like abstractions o…](notes/2018-03-21-epsilontheory-976553846641250305.md) — @EpsilonTheory, 2018-03-21
+- [Sam Dogen (Financial Samurai) is betting on heartland and Sunbelt real estate as a decades-long trend driven b…](notes/2018-03-20-financialsamura-976142396655255552.md) — @financialsamura, 2018-03-20
+
 ### Software, Startups & Tech (12)
 
 - [Dan Fessler released TrellisWM, a 'fractal' window manager for Apple-silicon Macs that docks, tabs and nests r…](notes/2026-10-13-danfessler-2109901960132305311.md) — @DanFessler, 2026-10-13
@@ -68,21 +83,6 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 - [Pieter Levels built a Nomad List page that tests 1,000,000 variable combinations across 1,000+ cities to surfa…](notes/2018-08-05-levelsio-1026157119353933824.md) — @levelsio, 2018-08-05
 - [Ryan Hoover says Stripe should build Rewardful, a simple way for SaaS companies to run affiliate and referral …](notes/2018-08-03-rrhoover-1025381331684007941.md) — @rrhoover, 2018-08-03
 - [Gwern recommends two essays: 'Commoditize Your Complement', which he calls the key Silicon Valley economic pat…](notes/2018-06-15-gwern-1007459876182921218.md) — @gwern, 2018-06-15
-
-### Investing & Personal Finance (12)
-
-- [BuccoCapital jokes that his investing edge on X is to buy whatever the 'second derivative / rate of change' cr…](notes/2026-10-13-buccocapital-2110134294756597812.md) — @buccocapital, 2026-10-13
-- [A Fundamental Edge × Perplexity webinar shows Perplexity used live for institutional-style equity research (tr…](notes/2025-06-13-davidtaggart-1933655565798187274.md) — @DavidTaggart, 2025-06-13
-- [The 'totally accurate risk assessment' joke is a chart showing private credit with about 9% return at about 3%…](notes/2025-03-08-junkbondinvest-1898447057108566149.md) — @junkbondinvest, 2025-03-08
-- [Noah's own post: cash does distinct jobs, so size each one deliberately instead of holding too much or too lit…](notes/2024-04-02-noahmp-1774971102609195051.md) — @noahmp, 2024-04-02
-- [Russell Ledbetter's full thread explains who must file the new FinCEN Beneficial Ownership Information (BOI) r…](notes/2023-12-06-rledbettercpa-1732507366887665927.md) — @rledbetterCPA, 2023-12-06
-- [Peter Lynch, at the opening of 'Beating the Street', explains why he left Fidelity Magellan at 46 to spend tim…](notes/2023-11-30-dividendgrowth-1730244740153491528.md) — @DividendGrowth, 2023-11-30
-- [Robert Sterling warns that high-income but not wealthy parents can set kids' lifestyle expectations they won't…](notes/2023-11-25-robertmsterling-1728456737198383452.md) — @RobertMSterling, 2023-11-25
-- [Benn Eifert's thread argues that tail hedges lose money on their own yet can raise a rebalanced portfolio's lo…](notes/2021-02-19-bennpeifert-1362908515874955264.md) — @bennpeifert, 2021-02-19
-- [Sean Fanning warns that some public SaaS companies' metrics, like '>95% revenue retention', are defined in mis…](notes/2020-06-27-seandougfan-1276903394725199872.md) — @seandougfan, 2020-06-27
-- [Paul Millerd's thread (recovered in full) shows that the '40% of Americans can't cover $400' headline misreads…](notes/2019-04-16-p-millerd-1118071142311288838.md) — @p_millerd, 2019-04-16
-- [Epsilon Theory's 'The Icarus Moment' argues that markets and politics now trade on cartoon-like abstractions o…](notes/2018-03-21-epsilontheory-976553846641250305.md) — @EpsilonTheory, 2018-03-21
-- [Sam Dogen (Financial Samurai) is betting on heartland and Sunbelt real estate as a decades-long trend driven b…](notes/2018-03-20-financialsamura-976142396655255552.md) — @financialsamura, 2018-03-20
 
 ### Books, Learning & Ideas (8)
 
