@@ -4,7 +4,7 @@
 
 **Status:** candidate · **Conviction:** — · **Direction:** bullish · **Subject:** theme: Heartland / Sunbelt residential real estate (real estate, US Sunbelt, US Heartland; identifiers are agent/Noah-assigned)
 
-Thesis: `sunbelt-heartland-real-estate` · Created 2026-10-17 · Updated 2026-10-17 · Evidence: 1 source(s), published 2018-03-20 → 2018-03-20
+Thesis: `sunbelt-heartland-real-estate` · Created 2026-10-17 · Updated 2026-10-17 · Evidence: 1 source(s), published 2018-03-20 → 2018-03-20, content as of 2026-10-16 → 2026-10-16
 
 ## Claim
 
@@ -30,15 +30,15 @@ _No current view yet (`omni tracks view generate sunbelt-heartland-real-estate`)
 
 ## Evidence from sources
 
-- **bullish** · thesis · [@financialsamura, 2018-03-20](https://x.com/financialsamura/status/976142396655255552): Financial Samurai is investing in heartland/Sunbelt real estate as a multi-decade trend driven by technology, remote work and demand for cheaper, less dense places. — “The trend towards the inland empire will be a multi-decade trend that I'm investing in” (main) / “one of the best long-term trends is investing in the heartland of America due to growth of technology and remote work” (main) _(caveats: the linked article has been updated since the 2018 post (mentions the pandemic and 2024); quotes are from the current version; article promotes a specific platform; sponsorship not checked)_
+- **bullish** · thesis · [@financialsamura, 2018-03-20; content retrieved 2026-10-16](https://x.com/financialsamura/status/976142396655255552): Financial Samurai is investing in heartland/Sunbelt real estate as a multi-decade trend driven by technology, remote work and demand for cheaper, less dense places. — “The trend towards the inland empire will be a multi-decade trend that I'm investing in” (main) / “one of the best long-term trends is investing in the heartland of America due to growth of technology and remote work” (main) _(caveats: the linked article has been updated since the 2018 post (mentions the pandemic and 2024); quotes are from the current version; article promotes a specific platform; sponsorship not checked)_
 
 ### Catalysts cited by sources
 
-- The source expects work-from-home to persist after the pandemic. — “Thanks to the pandemic, work-from-home is here to stay.” (main) [@financialsamura, 2018-03-20](https://x.com/financialsamura/status/976142396655255552)
+- The source expects work-from-home to persist after the pandemic. — “Thanks to the pandemic, work-from-home is here to stay.” (main) [@financialsamura, 2018-03-20; content retrieved 2026-10-16](https://x.com/financialsamura/status/976142396655255552)
 
 ### Risks cited by sources
 
-- The source itself expected rising Texas and Florida housing inventory to push prices down about 10% by end-2024. — “Texas and Florida are currently seeing a surge in housing inventory, which will likely push down real estate prices by 10% by the end of 2024” (main) [@financialsamura, 2018-03-20](https://x.com/financialsamura/status/976142396655255552)
+- The source itself expected rising Texas and Florida housing inventory to push prices down about 10% by end-2024. — “Texas and Florida are currently seeing a surge in housing inventory, which will likely push down real estate prices by 10% by the end of 2024” (main) [@financialsamura, 2018-03-20; content retrieved 2026-10-16](https://x.com/financialsamura/status/976142396655255552)
 
 ### Assets named
 
@@ -49,9 +49,9 @@ _No current view yet (`omni tracks view generate sunbelt-heartland-real-estate`)
 
 ### Evidence log
 
-- `2018-03-20` [@financialsamura, 2018-03-20](https://x.com/financialsamura/status/976142396655255552): Financial Samurai is investing in heartland/Sunbelt real estate as a multi-decade trend driven by technology, remote work and demand for cheaper, less dense places. — “The trend towards the inland empire will be a multi-decade trend that I'm investing in” (main) / “one of the best long-term trends is investing in the heartland of America due to growth of technology and remote work” (main)
-- `2018-03-20` [@financialsamura, 2018-03-20](https://x.com/financialsamura/status/976142396655255552): The source expects work-from-home to persist after the pandemic. — “Thanks to the pandemic, work-from-home is here to stay.” (main)
-- `2018-03-20` [@financialsamura, 2018-03-20](https://x.com/financialsamura/status/976142396655255552): The source itself expected rising Texas and Florida housing inventory to push prices down about 10% by end-2024. — “Texas and Florida are currently seeing a surge in housing inventory, which will likely push down real estate prices by 10% by the end of 2024” (main)
+- `2026-10-16` [@financialsamura, 2018-03-20; content retrieved 2026-10-16](https://x.com/financialsamura/status/976142396655255552): Financial Samurai is investing in heartland/Sunbelt real estate as a multi-decade trend driven by technology, remote work and demand for cheaper, less dense places. — “The trend towards the inland empire will be a multi-decade trend that I'm investing in” (main) / “one of the best long-term trends is investing in the heartland of America due to growth of technology and remote work” (main)
+- `2026-10-16` [@financialsamura, 2018-03-20; content retrieved 2026-10-16](https://x.com/financialsamura/status/976142396655255552): The source expects work-from-home to persist after the pandemic. — “Thanks to the pandemic, work-from-home is here to stay.” (main)
+- `2026-10-16` [@financialsamura, 2018-03-20; content retrieved 2026-10-16](https://x.com/financialsamura/status/976142396655255552): The source itself expected rising Texas and Florida housing inventory to push prices down about 10% by end-2024. — “Texas and Florida are currently seeing a surge in housing inventory, which will likely push down real estate prices by 10% by the end of 2024” (main)
 
 ## Research queue
 

@@ -1,6 +1,6 @@
 # X Bookmarks
 
-Source: Noah Pepper's (@noahmp) X bookmarks, 85 posts, published 2018-03-20 → 2026-10-18; 24 marked partial.  
+Source: Noah Pepper's (@noahmp) X bookmarks, 87 posts, published 2018-03-20 → 2026-10-20; 24 marked partial.  
 Point: a condensed, source-grounded index of saved posts. Each note in `notes/` has the link, author, date, topic, main point, takeaways, and transcript link when there's a video. See [digest.md](digest.md) for cross-topic themes.
 
 ## Pipeline
@@ -12,8 +12,10 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 ## Topics
 
 
-### Misc / Science / Lifestyle (19)
+### Misc / Science / Lifestyle (21)
 
+- [Will Manidis says the easy way to get leveraged, liquid exposure to the AI buildout is through commodities lik…](notes/2026-10-20-willmanidis-2112582008010604549.md) — @WillManidis, 2026-10-20
+- [Gresham says an AI-agent swarm can be made far cheaper by cutting wasted work (oversized inputs, repeated rese…](notes/2026-10-19-greshamtrade-2112270735116812640.md) — @Greshamtrade, 2026-10-19
 - [@poteto announced pstack v0.15.27 with a beta meta-skill, /create-formal-verification-skill, that generates a …](notes/2026-10-18-poteto-2111926622278521253.md) — @poteto, 2026-10-18
 - [Jev paired with Grok Bot can cut fork costs from about $110/day to about $4 by letting a cheap model score not…](notes/2026-10-17-0x-rody-2111491014053511341.md) — @0x_rody, 2026-10-17
 - [Mignano argues agentic AI will reorganize markets the way internet and then mobile/cloud did, hitting incumben…](notes/2026-10-17-mignano-2111566624855560200.md) — @mignano, 2026-10-17
@@ -54,9 +56,9 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 
 ### Software, Startups & Tech (12)
 
-- [Dan Fessler released TrellisWM, a 'fractal' window manager for macOS that nests windows inside each other on a…](notes/2026-10-13-danfessler-2109901960132305311.md) — @DanFessler, 2026-10-13
+- [Dan Fessler released TrellisWM, a 'fractal' window manager for Apple-silicon Macs that docks, tabs and nests r…](notes/2026-10-13-danfessler-2109901960132305311.md) — @DanFessler, 2026-10-13
 - [Tobi Lütke calls Vercel Labs' gpu-lexer 'so clever': a 27.5KB model that does syntax highlighting on the GPU i…](notes/2026-09-09-tobi-2097641185003049419.md) — @tobi, 2026-09-09
-- [Jason Leow built a free tool that adds a LinkedIn-style banner badge to any profile picture.](notes/2024-09-27-jasonleowsg-1839612955685785671.md) — @jasonleowsg, 2024-09-27
+- [Jason Leow built a free web tool that adds a LinkedIn-style curved banner badge to any profile picture, with w…](notes/2024-09-27-jasonleowsg-1839612955685785671.md) — @jasonleowsg, 2024-09-27
 - [Sebastian Bensusan: databases matter more than the code using them, so share Max Tagher's guide on documenting…](notes/2024-08-09-sebasbensu-1821972759658066429.md) — @sebasbensu, 2024-08-09
 - [Sashko Stubailo shows how he turns email newsletters into MP3s to listen to while walking or running.](notes/2021-11-22-stubailo-1462615845482295298.md) — @stubailo, 2021-11-22
 - [Chris Messina highlights Goldfinch's 'Unique Identity' NFT, pitched as the first NFT for identity; the Medium …](notes/2021-11-06-chrismessina-1457022332225024001.md) — @chrismessina, 2021-11-06

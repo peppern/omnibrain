@@ -4,7 +4,7 @@
 
 **Status:** candidate · **Conviction:** — · **Direction:** — · **Subject:** macro: Macro data releases and market narratives (US; identifiers are agent/Noah-assigned)
 
-Thesis: `narrative-driven-macro-prints` · Created 2026-10-17 · Updated 2026-10-17 · Evidence: 1 source(s), published 2018-03-21 → 2018-03-21
+Thesis: `narrative-driven-macro-prints` · Created 2026-10-17 · Updated 2026-10-17 · Evidence: 1 source(s), published 2018-03-21 → 2018-03-21, content as of 2026-10-16 → 2026-10-16
 
 ## Claim
 
@@ -28,11 +28,11 @@ _No current view yet (`omni tracks view generate narrative-driven-macro-prints`)
 
 ## Evidence from sources
 
-- **skeptical** · risk-signal · [@EpsilonTheory, 2018-03-21](https://x.com/EpsilonTheory/status/976553846641250305): Epsilon Theory argues markets and politics react to cartoon-like abstractions of reality, a system that holds only while confidence in the abstractions lasts. — “Markets and politics respond to theatrical abstractions of reality so distorted that they've become cartoons.” (main) / “The system holds as long as confidence in the abstractions persists; once that breaks, the fall happens fast.” (main) _(caveats: essay known via a WebFetch extraction, not the full original text)_
+- **skeptical** · risk-signal · [@EpsilonTheory, 2018-03-21; content retrieved 2026-10-16](https://x.com/EpsilonTheory/status/976553846641250305): Epsilon Theory argues markets and politics react to cartoon-like abstractions of reality, a system that holds only while confidence in the abstractions lasts. — “Markets and politics respond to theatrical abstractions of reality so distorted that they've become cartoons.” (main) / “The system holds as long as confidence in the abstractions persists; once that breaks, the fall happens fast.” (main) _(caveats: essay known via a WebFetch extraction, not the full original text)_
 
 ### Risks cited by sources
 
-- Wage-growth prints that move large portfolios rest on work-hour changes indistinguishable from noise. — “Wage growth numbers that drive trillion-dollar portfolio shifts rest on monthly variations in work hours that statistically cannot be distinguished from random error.” (main) [@EpsilonTheory, 2018-03-21](https://x.com/EpsilonTheory/status/976553846641250305)
+- Wage-growth prints that move large portfolios rest on work-hour changes indistinguishable from noise. — “Wage growth numbers that drive trillion-dollar portfolio shifts rest on monthly variations in work hours that statistically cannot be distinguished from random error.” (main) [@EpsilonTheory, 2018-03-21; content retrieved 2026-10-16](https://x.com/EpsilonTheory/status/976553846641250305)
 
 ### Assets named
 
@@ -42,8 +42,8 @@ _No current view yet (`omni tracks view generate narrative-driven-macro-prints`)
 
 ### Evidence log
 
-- `2018-03-21` [@EpsilonTheory, 2018-03-21](https://x.com/EpsilonTheory/status/976553846641250305): Epsilon Theory argues markets and politics react to cartoon-like abstractions of reality, a system that holds only while confidence in the abstractions lasts. — “Markets and politics respond to theatrical abstractions of reality so distorted that they've become cartoons.” (main) / “The system holds as long as confidence in the abstractions persists; once that breaks, the fall happens fast.” (main)
-- `2018-03-21` [@EpsilonTheory, 2018-03-21](https://x.com/EpsilonTheory/status/976553846641250305): Wage-growth prints that move large portfolios rest on work-hour changes indistinguishable from noise. — “Wage growth numbers that drive trillion-dollar portfolio shifts rest on monthly variations in work hours that statistically cannot be distinguished from random error.” (main)
+- `2026-10-16` [@EpsilonTheory, 2018-03-21; content retrieved 2026-10-16](https://x.com/EpsilonTheory/status/976553846641250305): Epsilon Theory argues markets and politics react to cartoon-like abstractions of reality, a system that holds only while confidence in the abstractions lasts. — “Markets and politics respond to theatrical abstractions of reality so distorted that they've become cartoons.” (main) / “The system holds as long as confidence in the abstractions persists; once that breaks, the fall happens fast.” (main)
+- `2026-10-16` [@EpsilonTheory, 2018-03-21; content retrieved 2026-10-16](https://x.com/EpsilonTheory/status/976553846641250305): Wage-growth prints that move large portfolios rest on work-hour changes indistinguishable from noise. — “Wage growth numbers that drive trillion-dollar portfolio shifts rest on monthly variations in work hours that statistically cannot be distinguished from random error.” (main)
 
 ## Research queue
 
