@@ -20,7 +20,7 @@
   "research/investing/decisions/generated-decisions.md": "d6fcb2cc09deb75eaf91614bb789b5bdbeb2fb41e6779c181e69250884756afd",
   "research/investing/expressions/generated-expressions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "research/investing/expressions/generated-index.md": "744735a67a5c34ca99473a081536e4ed0bf7c60a8a2fdb79915422d153c88acb",
-  "research/investing/generated-changes.md": "e86c87b77e3e614c112051afd9e4d77a8c8587d95889b7f8ee416e2f6ec85294",
+  "research/investing/generated-changes.md": "35384a0ba611f5dc55ba8f3dbf5917224164817603d72f1ea22da4675b377a0b",
   "research/investing/generated-index.md": "d49847228c452571da1f5642d13d5cf0185dd56f2c83460db0189f35dd37be24",
   "research/investing/generated-navigation.md": "6970fe9b5992b5e4568959d4e5b5f3eb35ab87c2ffb9bce8bc8feb8dd83c8c9c",
   "research/investing/inbox/generated-candidates.jsonl": "424b7ac67ff438d42727aed63f9c1b8ea7e35ea7d75a781f70d0c20bb3c06475",
@@ -35,18 +35,19 @@
   "research/investing/recommendations/generated-recommendations.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "research/investing/reviews/generated-2026-10-21-review-2.md": "f04a342e722c04deb0fcbb76eb32a8d1c0b69279c14f80ec3324129e58c26fb8",
   "research/investing/reviews/generated-2026-10-21-review-3.md": "7c3841ff04cf6670a1aff394d3c00a7f107e7e8e4017875075ad7cba398718ce",
+  "research/investing/reviews/generated-2026-10-21-review-4.md": "570858c83b32f77c96e9229105b7788708161ce382e71f732dc8729dd1c635b1",
   "research/investing/reviews/generated-2026-10-21-review.md": "3dba18f07f667f5cb652f399d47dc794b8899476a754c9b832a60bee95cda5c7",
-  "research/investing/reviews/generated-latest-review.md": "1cdd70370cd389386e0f21ebb127790623ec54c3a23449d5f5d269465c47fae1",
-  "research/investing/theses/generated-current-views.jsonl": "b0e1f7d58ecce831608d15bae2cbaa80413caf7537638965c4b2a35926a3d543",
-  "research/investing/theses/generated-current-views.md": "4fa1577fb38355aebcae448d45cbe3ebef1a8eae230b25950ca8018b13c4024c",
+  "research/investing/reviews/generated-latest-review.md": "10e96c8a6e151ebbd3aca7fdeb428ffb9ef8e1579b61cd60b93061be6edf7008",
+  "research/investing/theses/generated-current-views.jsonl": "b37efe3bcb71f6ff3c8caef705c3866c6663819ebba6c3eb316d7aea06d721eb",
+  "research/investing/theses/generated-current-views.md": "efbd253be59d31f0683c0b9e744cc134769b9aa9eefe13b4a255ee28e27dbddd",
   "research/investing/too-difficult/generated-index.md": "dd33a0a94497ab8a4402ca88df0eda1cf06b6169e9c15dfe1be3c184e85d8b97",
   "research/investing/too-difficult/generated-parked.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "research/investment-ideas/README.md": "f635de5bcf8b937898b67fd93c05f5abafc971d3fe9be6332643c5b5e36fe608",
   "research/investment-ideas/records.jsonl": "69d06c7cb7e1f7fdbf2ab35c88ad150ec5d54684125ab82fa5e79ead9bc53126",
   "research/investment-ideas/research-queue.jsonl": "4280c816abb3efd20057b3f4233dc0844a59af29ae3c8c72797fb3b5a7b33ba8",
-  "research/investment-ideas/theses.jsonl": "dfa0bf44afb4752ce67dd422efb8db6727caeeb3f4fa1c8adf415d275c8b1c38",
+  "research/investment-ideas/theses.jsonl": "52d494de0bb37bae474c065b6fca30bd1eb9aa8329d48b31d5384db8eac6accd",
   "research/investment-ideas/theses/agents-disrupt-knowledge-gatekeepers.md": "0f668a4c3222f8cb10737faf9386ec4ce013729c4381121ff61a3eae8d250112",
-  "research/investment-ideas/theses/ai-exposure-via-energy-commodities.md": "da49557e2dfa62086d0c8e4d505640dca86d11a2971ed62d4792b54c31407dcf",
+  "research/investment-ideas/theses/ai-exposure-via-energy-commodities.md": "9277adb34da1f0c9811bafda2b253c4616a819132347bbddc263277898ea742e",
   "research/investment-ideas/theses/buy-after-momentum-capitulation.md": "10bfd2d70f2d8bd4d8bbfd0ce5bc6e55eee8c3b6b07526c4f97f7f32d844ed80",
   "research/investment-ideas/theses/narrative-driven-macro-prints.md": "02e4d84ba901a7a2c63759dc5b1a326077e839418d2367663946a074df61f050",
   "research/investment-ideas/theses/private-credit-hidden-risk.md": "487f8d51d5e0f6a973cd7af7e6bf67b37a0eb60087dd73144777e9e7b01028d8",
@@ -189,12 +190,13 @@
    "written": [
     "research/investing/theses/generated-current-views.jsonl",
     "research/investing/theses/generated-current-views.md",
+    "research/investment-ideas/theses.jsonl",
     "research/investment-ideas/theses/ai-exposure-via-energy-commodities.md"
    ]
   },
   "previous": {
    "date": "2026-10-21",
-   "id": "pub-2026-10-21-514bb22f"
+   "id": "pub-2026-10-21-fb12d5b7"
   },
   "run": {
    "answered": [
@@ -654,11 +656,11 @@
  },
  "publication": {
   "date": "2026-10-21",
-  "fingerprint": "fb12d5b7e6572e75b642ff75a4c2ae52127d49dc98655ff39d7bbf8f79fcfc42",
-  "id": "pub-2026-10-21-fb12d5b7",
-  "previous": "pub-2026-10-21-514bb22f",
-  "published_at": "2026-10-21T04:07:53.049858+00:00",
-  "review": "research/investing/reviews/generated-2026-10-21-review-3.md"
+  "fingerprint": "312077b6d2ef6fb4084859dadbd1e765b7123ba8d60216115961a9bae0bfb2a4",
+  "id": "pub-2026-10-21-312077b6",
+  "previous": "pub-2026-10-21-fb12d5b7",
+  "published_at": "2026-10-21T04:11:32.588856+00:00",
+  "review": "research/investing/reviews/generated-2026-10-21-review-4.md"
  },
  "regions": [
   {
@@ -672,6 +674,7 @@
  "reviews": [
   "research/investing/reviews/generated-2026-10-21-review-2.md",
   "research/investing/reviews/generated-2026-10-21-review-3.md",
+  "research/investing/reviews/generated-2026-10-21-review-4.md",
   "research/investing/reviews/generated-2026-10-21-review.md"
  ],
  "schema_version": 1,
@@ -749,7 +752,7 @@
    "ai-exposure-via-energy-commodities": {
     "confidence": "medium",
     "direction": "unchanged",
-    "input_version": "5aa6b51f74fa1e74092138a26416592c6baf69cca92faa469e1c09fafe9ac0d9",
+    "input_version": "07ea8d6a5bb46887a5762e52e8547eb0db766a82ff897f76f850f23d315c191c",
     "reasons": [],
     "stale": false
    },

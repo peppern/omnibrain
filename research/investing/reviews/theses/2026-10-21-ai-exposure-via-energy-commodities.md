@@ -4,6 +4,8 @@
 
 > **How this page was made.** Agent-written from the validated Omniscience state after research run `research-worker-dc5a3867489c`. Every quote below is verbatim from a saved source and passed `omni tracks work answer` quote verification. The one exception is the correlation table, which is the agent's own calculation from public daily prices (method and code in the [appendix](2026-10-21-ai-exposure-via-energy-commodities-correlations.md)). This packet is hand-assembled for this first cycle; a generator is tracked in beads (see the E2E epic in omniscience `docs/e2e/investment-thesis-e2e.md`). Not investment advice; nothing here is a recommendation or a trade.
 
+> **Note on the generated digest:** `generated-2026-10-21-digest.md` / `generated-latest-digest.md` are frozen at the run's first publication and still show the pre-review wording (copper kill criterion met, GEV beta 0.99). The correction is logged as a research update on the thesis and is in the current view; regenerating a frozen digest is owner-only (`review-digest unfreeze`). This packet and the current view are the corrected state.
+
 Generated companions: [thesis page](../../../investment-ideas/theses/ai-exposure-via-energy-commodities.md) · [current view](../../theses/generated-current-views.md#ai-exposure-via-energy-commodities) · [desk review 2026-10-21](../generated-2026-10-21-review.md) ([revised](../generated-2026-10-21-review-2.md)) · [digest 2026-10-21](../generated-2026-10-21-digest.md)
 
 ## 1. Decisions for Noah
@@ -34,7 +36,7 @@ Reply in chat (or comment on the Omnibrain PR) with e.g. “reframe (a), convict
 
 ## 4. Answers to the research questions
 
-**Q1. How big is AI demand relative to total power and copper demand growth?** Big for US power, small for global power and copper.
+**Q1. How big is AI demand relative to total power and copper demand growth?** Not settled yet. The sources measure *all data-centre* load for power (AI is the main driver but isn't separated) and *total* demand for copper (not demand growth). On those measures data centres are large for US power growth, about one-tenth of global power growth, and about 2% of total copper demand. The AI-only and growth-share figures are open tasks.
 - IEA: “In the United States, data centres account for nearly half of electricity demand growth between now and 2030.”
 - LBNL/DOE: “data centers consumed about 4.4% of total U.S. electricity in 2023 and are expected to consume approximately 6.7 to 12% of total U.S. electricity by 2028”
 - IEA (global): “Data centres account for around one-tenth of global electricity demand growth to 2030, less than the share from industrial motors, air conditioning in homes and offices, or electric vehicles.”
