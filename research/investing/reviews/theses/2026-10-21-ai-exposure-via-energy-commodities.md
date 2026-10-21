@@ -25,7 +25,7 @@ Reply in chat (or comment on the Omnibrain PR) with e.g. “reframe (a), convict
 
 **Status:** active (promoted 2026-10-21 per Noah's chat instruction to drive this thesis end to end). **View direction:** weakened. **Evidence:** 4 supporting, 3 challenging, 4 qualifying.
 
-**Agent view (revised after review, 2026-10-21):** The thesis splits in two. The **US power leg is real but crowded**: data centres (all of them, AI the main driver) are nearly half of US electricity demand growth to 2030, listed power producers hold direct AI contracts, and power equipment is supply-constrained, yet those stocks already trade as high-beta AI proxies (more than -20% on the DeepSeek day). The **copper leg is the reverse**: liquid, leverageable and not crowded, but data-centre copper (~512 kt, ~2% of total demand) is a small slice of the market and the refined market is in surplus through 2027, so copper looks like weak AI exposure. Its share of demand *growth* is still to be measured.
+**Agent view (revised after review, 2026-10-21):** The thesis splits in two. The **US power leg is real but crowded**: data centres (all of them, AI the main driver) are nearly half of US electricity demand growth to 2030, listed power producers hold direct data-centre contracts, and power equipment is supply-constrained, yet those stocks already trade as high-beta AI proxies (more than -20% on the DeepSeek day). The **copper leg is the reverse**: liquid, leverageable and not crowded, but data-centre copper (~512 kt, ~2% of total demand) is a small slice of the market and the refined market is in surplus through 2027, so copper looks like weak AI exposure. Its share of demand *growth* is still to be measured.
 
 ## 3. What changed this cycle
 
@@ -44,9 +44,9 @@ Reply in chat (or comment on the Omnibrain PR) with e.g. “reframe (a), convict
 - BNEF (via MINING.COM): “copper demand from the sector will average around 400,000 tonnes annually over the next decade, peaking at 572,000 tonnes in 2028”
 
 **Q2. Which liquid instruments, and how much of each is really AI?** Partly answered: only CEG/TLN contracts and GEV's gas share are measured; the rest is a new task.
-- Independent power producers have direct AI contracts. CNBC: “Constellation, for example, has signed a power agreement with Microsoft to restart the Three Mile Island nuclear plant” and “Talen is powering an Amazon data center with electricity from the nearby Susquehanna nuclear plant.”
+- Independent power producers have direct *data-centre* contracts (whether the workload is AI isn't established). CNBC: “Constellation, for example, has signed a power agreement with Microsoft to restart the Three Mile Island nuclear plant” and “Talen is powering an Amazon data center with electricity from the nearby Susquehanna nuclear plant.”
 - Grid and turbine equipment is partial AI exposure. GE Vernova 2Q26 call: of its gas gigawatts under contract, “approximately 80% are traditional customers and 20% are for” data centers (verified quote ends at “for”); Electrification “data center orders to over $5 billion in the first half of 2026, more than double full-year” 2025 (verified quote ends at “full-year”)
-- Copper futures and ETFs are liquid and leverageable, but at ~2% of demand AI does not drive them. Fees, roll costs and margin were **not** researched yet (new task).
+- Copper futures and ETFs are liquid; whether and how they're leverageable (margin, embedded leverage, fees, roll) is **not** researched yet (new task). Data centres are ~2% of total copper demand.
 
 **Q3. Do they trade like AI already?** Power names yes, copper no.
 - CNBC, 2025-01-27: “Vistra closed nearly 30% lower, erasing its gains for 2025. Constellation Energy, Talen Energy and GE Vernova tumbled more than 20%”
