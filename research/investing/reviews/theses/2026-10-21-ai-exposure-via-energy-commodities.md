@@ -8,12 +8,12 @@ Generated companions: [thesis page](../../../investment-ideas/theses/ai-exposure
 
 ## 1. Decisions for Noah
 
-1. **Reframe, keep, or close?** On the kill criterion (“AI-related demand turns out to be a small share of power or copper demand growth”): **not met for US power** (about half of US demand growth); about one-tenth of global power growth; **copper still open**, because the IEA figure (~512 kt, ~2%) is a share of total demand, not of demand growth, and the growth share is not yet established (new task). The stronger case against the thesis as framed is that the power names are already priced as AI beta. Options:
+1. **Reframe, keep, or close?** On the kill criterion (“AI-related demand turns out to be a small share of power or copper demand growth”): **unresolved for power**: all data centres (not AI alone) are about half of US demand growth and about one-tenth of global growth, and the AI-only share isn't separated yet; **copper still open**, because the IEA figure (~512 kt, ~2%) is a share of total demand, not of demand growth, and the growth share is not yet established (new task). The stronger case against the thesis as framed is that the power names are already priced as AI beta. Options:
    - **(a) Reframe (agent's suggestion):** narrow to *“Supply-constrained US power generation and grid equipment is the cleanest liquid AI-infrastructure exposure”*, drop copper, and replace “overlooked” with an explicit valuation test.
    - (b) Keep as is and fund cycle 2 (instrument terms, valuation).
    - (c) Close as invalidated (copper leg wrong, power leg already priced).
 2. **Conviction:** none set. Agent confidence in this view is *medium*.
-3. **Next cycle scope:** approve the two new research tasks below, and say whether cycle 2 should build business assessments for specific names (VST, CEG, TLN, GEV), which is the step before any recommendation.
+3. **Next cycle scope:** approve the four new research tasks in section 7 (instrument terms, quarterly monitor, copper share of demand growth, AI share per instrument), and say whether cycle 2 should build business assessments for specific names (VST, CEG, TLN, GEV), which is the step before any recommendation.
 
 Reply in chat (or comment on the Omnibrain PR) with e.g. “reframe (a), conviction low, go cycle 2”. Waffle records it with `--by noah --ref <your message>`.
 
@@ -23,13 +23,13 @@ Reply in chat (or comment on the Omnibrain PR) with e.g. “reframe (a), convict
 
 **Status:** active (promoted 2026-10-21 per Noah's chat instruction to drive this thesis end to end). **View direction:** weakened. **Evidence:** 4 supporting, 3 challenging, 4 qualifying.
 
-**Agent view (revised after review, 2026-10-21):** The thesis splits in two. The **US power leg is real but crowded**: data centres are nearly half of US electricity demand growth to 2030, listed power producers hold direct AI contracts, and power equipment is supply-constrained, yet those stocks already trade as high-beta AI proxies (more than -20% on the DeepSeek day). The **copper leg is the reverse**: liquid, leverageable and not crowded, but data-centre copper (~512 kt, ~2% of total demand) is a small slice of the market and the refined market is in surplus through 2027, so copper looks like weak AI exposure. Its share of demand *growth* is still to be measured.
+**Agent view (revised after review, 2026-10-21):** The thesis splits in two. The **US power leg is real but crowded**: data centres (all of them, AI the main driver) are nearly half of US electricity demand growth to 2030, listed power producers hold direct AI contracts, and power equipment is supply-constrained, yet those stocks already trade as high-beta AI proxies (more than -20% on the DeepSeek day). The **copper leg is the reverse**: liquid, leverageable and not crowded, but data-centre copper (~512 kt, ~2% of total demand) is a small slice of the market and the refined market is in surplus through 2027, so copper looks like weak AI exposure. Its share of demand *growth* is still to be measured.
 
 ## 3. What changed this cycle
 
 - Promoted candidate → active (owner, 2026-10-21); 4 research questions seeded alongside the original one; all 5 worked by the research worker (Q2 only partly answered, so a follow-up task carries the rest).
 - 7 sources saved as research notes; 10 new evidence links (3 challenging, 4 qualifying, 3 supporting) on top of the original bookmark.
-- Kill criterion stays *unknown* overall: not met for US power; copper's share of demand growth is open (a first draft marked it triggered from the 2%-of-total figure; corrected after review).
+- Kill criterion stays *unknown* overall: US data-centre load is about half of US growth but the AI-only share isn't separated; copper's share of demand growth is open (a first draft marked it triggered from the 2%-of-total figure; corrected after review).
 - 4 new research tasks opened (instrument terms; quarterly kill-criterion monitor; copper share of demand *growth*; AI share of revenue/backlog for each named instrument).
 
 ## 4. Answers to the research questions
@@ -43,7 +43,7 @@ Reply in chat (or comment on the Omnibrain PR) with e.g. “reframe (a), convict
 
 **Q2. Which liquid instruments, and how much of each is really AI?** Partly answered: only CEG/TLN contracts and GEV's gas share are measured; the rest is a new task.
 - Independent power producers have direct AI contracts. CNBC: “Constellation, for example, has signed a power agreement with Microsoft to restart the Three Mile Island nuclear plant” and “Talen is powering an Amazon data center with electricity from the nearby Susquehanna nuclear plant.”
-- Grid and turbine equipment is partial AI exposure. GE Vernova 2Q26 call: of its gas gigawatts under contract, “approximately 80% are traditional customers and 20% are for data centers”; Electrification “data center orders to over $5 billion in the first half of 2026, more than double full-year ’25.”
+- Grid and turbine equipment is partial AI exposure. GE Vernova 2Q26 call: of its gas gigawatts under contract, “approximately 80% are traditional customers and 20% are for” data centers (verified quote ends at “for”); Electrification “data center orders to over $5 billion in the first half of 2026, more than double full-year” 2025 (verified quote ends at “full-year”)
 - Copper futures and ETFs are liquid and leverageable, but at ~2% of demand AI does not drive them. Fees, roll costs and margin were **not** researched yet (new task).
 
 **Q3. Do they trade like AI already?** Power names yes, copper no.
@@ -77,7 +77,7 @@ Reply in chat (or comment on the Omnibrain PR) with e.g. “reframe (a), convict
 
 | Kill criterion / risk | Status | Basis |
 | --- | --- | --- |
-| AI-related demand turns out to be a small share of power or copper demand growth | **Unknown**: not met for US power; copper growth share open | IEA: ~1/2 of US power growth, ~1/10 of global; copper ~2% of *total* demand (growth share not yet computed) |
+| AI-related demand turns out to be a small share of power or copper demand growth | **Unknown**: AI-only share of power growth not separated; copper growth share open | IEA: all data centres ~1/2 of US power growth, ~1/10 of global (AI a part of that); copper ~2% of *total* demand (growth share not yet computed) |
 | AI capex slows or is already priced into energy and copper | Partly evidenced (priced) for power equities | DeepSeek-day moves, betas, +225% to +608% returns |
 | Commodity prices are driven mostly by factors unrelated to AI | Evidenced for copper | ICSG surplus; AI ~2% of demand |
 

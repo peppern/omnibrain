@@ -2,9 +2,9 @@
 
 # Changes since the previous publication (generated)
 
-[Desk index](generated-index.md) · [Review packet](reviews/generated-2026-10-21-review-2.md) · [Navigation](generated-navigation.md)
+[Desk index](generated-index.md) · [Review packet](reviews/generated-2026-10-21-review-3.md) · [Navigation](generated-navigation.md)
 
-Publication `pub-2026-10-21-514bb22f` · 2026-10-21 · previous publication: `pub-2026-10-21-4372027b` (2026-10-21)
+Publication `pub-2026-10-21-fb12d5b7` · 2026-10-21 · previous publication: `pub-2026-10-21-514bb22f` (2026-10-21)
 
 ## Material changes
 
@@ -48,11 +48,9 @@ _No recommendation is blocked._
 
 ## Published files
 
-6 written, 0 removed against the previous publication's manifest (the review packets and this page aside).
+3 written, 0 removed against the previous publication's manifest (the review packets and this page aside).
 
 | Directory | Written | Removed |
 | --- | --- | --- |
-| `research/investing` | 1 | 0 |
 | `research/investing/theses` | 2 | 0 |
-| `research/investment-ideas` | 2 | 0 |
 | `research/investment-ideas/theses` | 1 | 0 |

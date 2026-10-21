@@ -38,7 +38,7 @@ Changes since the view as of 2026-10-21: none.
 
 ### Agent interpretation
 
-_Agent inference, not owner framing:_ The thesis splits in two. The US power leg is real: data centres are nearly half of US electricity demand growth to 2030 (IEA) and listed power producers hold direct AI offtake contracts, and power equipment is supply-constrained. But it is not overlooked: those stocks fell more than 20% on the DeepSeek day and trade as high-beta AI proxies. The copper leg is the reverse: liquid, leverageable and not crowded, but data-centre copper (about 512 kt, roughly 2% of total demand) is a small slice of the market and ICSG sees refined surpluses through 2027, so copper looks like weak AI exposure; its share of copper demand growth (not total demand) is not yet established. As framed (simple, overlooked AI exposure via energy and copper) the claim is weak; a narrower thesis on supply-constrained US power and grid equipment is better supported but already priced as AI beta.
+_Agent inference, not owner framing:_ The thesis splits in two. The US power leg is real: data centres, with AI the main driver, are nearly half of US electricity demand growth to 2030 (IEA) and listed power producers hold direct AI offtake contracts, and power equipment is supply-constrained. But it is not overlooked: those stocks fell more than 20% on the DeepSeek day and trade as high-beta AI proxies. The copper leg is the reverse: liquid, leverageable and not crowded, but data-centre copper (about 512 kt, roughly 2% of total demand) is a small slice of the market and ICSG sees refined surpluses through 2027, so copper looks like weak AI exposure; its share of copper demand growth (not total demand) is not yet established. As framed (simple, overlooked AI exposure via energy and copper) the claim is weak; a narrower thesis on supply-constrained US power and grid equipment is better supported but already priced as AI beta.
 
 ### Supporting evidence
 
@@ -64,7 +64,7 @@ Qualifying: `473f3e15054f`, `5a9a7ef84ca3`, `95f2515ff266`, `e9dfc5ee6948` · co
 
 ### Kill criteria
 
-- **unknown**: AI-related demand turns out to be a small share of power or copper demand growth — evidence `4281ed403cb5`, `5a9a7ef84ca3` (_agent note:_ Power: not met for the US (nearly half of US demand growth to 2030), around one-tenth of global growth. Copper: the IEA figure (about 512 kt, ~2%) is relative to total demand, not to demand growth; against total demand growth of a few Mt to 2030 it could be on the order of 10% of growth. Needs a grounded growth denominator before this can be judged (open task).)
+- **unknown**: AI-related demand turns out to be a small share of power or copper demand growth — evidence `4281ed403cb5`, `5a9a7ef84ca3` (_agent note:_ Power: all data centres (not AI alone) are nearly half of US demand growth to 2030 and around one-tenth of global growth; the AI-only share is not separated yet. Copper: the IEA figure (about 512 kt, ~2%) is relative to total demand, not to demand growth; against total demand growth of a few Mt to 2030 it could be on the order of 10% of growth. Needs a grounded growth denominator before this can be judged (open task).)
 
 ### Businesses and research dispositions
 
