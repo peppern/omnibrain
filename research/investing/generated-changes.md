@@ -2,11 +2,13 @@
 
 # Changes since the previous publication (generated)
 
-[Desk index](generated-index.md) · [Review packet](reviews/generated-2026-10-21-review.md) · [Navigation](generated-navigation.md)
+[Desk index](generated-index.md) · [Review packet](reviews/generated-2026-10-21-review-2.md) · [Navigation](generated-navigation.md)
 
-Publication `pub-2026-10-21-4372027b` · 2026-10-21 · previous publication: none (first publication: everything is new)
+Publication `pub-2026-10-21-514bb22f` · 2026-10-21 · previous publication: `pub-2026-10-21-4372027b` (2026-10-21)
 
 ## Material changes
+
+_No material change: the published files changed without a new proposal revision, stale input, disposition, parked case, inbox entry or candidate._
 
 ### Proposal revisions
 
@@ -30,8 +32,7 @@ _None._
 
 ### New candidate theses (agent-proposed, awaiting Noah)
 
-- [`agents-disrupt-knowledge-gatekeepers`](../investment-ideas/theses/agents-disrupt-knowledge-gatekeepers.md) Agents disrupt knowledge gatekeepers
-- [`ai-exposure-via-energy-commodities`](../investment-ideas/theses/ai-exposure-via-energy-commodities.md) Bet on AI through energy and commodities
+_None._
 
 ## Needs your decision
 
@@ -47,17 +48,11 @@ _No recommendation is blocked._
 
 ## Published files
 
-36 written, 0 removed against the previous publication's manifest (the review packets and this page aside).
+6 written, 0 removed against the previous publication's manifest (the review packets and this page aside).
 
 | Directory | Written | Removed |
 | --- | --- | --- |
-| `research/investing` | 2 | 0 |
-| `research/investing/businesses` | 2 | 0 |
-| `research/investing/decisions` | 2 | 0 |
-| `research/investing/expressions` | 2 | 0 |
-| `research/investing/inbox` | 8 | 0 |
-| `research/investing/recommendations` | 2 | 0 |
+| `research/investing` | 1 | 0 |
 | `research/investing/theses` | 2 | 0 |
-| `research/investing/too-difficult` | 2 | 0 |
-| `research/investment-ideas` | 4 | 0 |
-| `research/investment-ideas/theses` | 10 | 0 |
+| `research/investment-ideas` | 2 | 0 |
+| `research/investment-ideas/theses` | 1 | 0 |

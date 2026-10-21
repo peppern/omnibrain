@@ -2,7 +2,7 @@
 
 For the [2026-10-21 review packet](2026-10-21-ai-exposure-via-energy-commodities.md) of `ai-exposure-via-energy-commodities`.
 
-> This is Waffle's own calculation, not a quoted source, so it is **not** in the evidence ledger and passed no quote check. Data: Yahoo Finance daily closes, adjusted for splits and dividends, fetched 2026-10-21 11:15 SGT with `yfinance`. Window: 2023-01-04 to 2026-10-20 (GEV from its 2024-03-27 listing). Daily simple returns; correlation and beta are against SMH (semiconductor ETF) unless noted. Past co-movement does not predict future co-movement.
+> This is Waffle's own calculation, not a quoted source, so it is **not** in the evidence ledger and passed no quote check. Data: Yahoo Finance daily closes, adjusted for splits and dividends, fetched 2026-10-21 11:15 SGT with `yfinance`. Window: 2023-01-04 to 2026-10-20 (GEV from its 2024-03-27 listing). Daily simple returns; correlation and beta are against SMH over the dates both series exist (GEV's beta was first computed against SMH's full-window variance, 0.99; corrected to 0.84) (semiconductor ETF) unless noted. Past co-movement does not predict future co-movement.
 
 ## Full window
 
@@ -15,7 +15,7 @@ For the [2026-10-21 review packet](2026-10-21-ai-exposure-via-energy-commodities
 | XLU | 0.10 | 0.02 | 0.34 | 0.05 | 16% | +33% |
 | VST | 0.49 | 0.43 | 0.46 | 0.72 | 53% | +608% |
 | CEG | 0.48 | 0.41 | 0.47 | 0.64 | 48% | +225% |
-| GEV | 0.61 | 0.52 | 0.55 | 0.99 | 53% | +581% |
+| GEV | 0.61 | 0.52 | 0.55 | 0.84 | 53% | +581% |
 
 ## By calendar year (correlation with SMH)
 
@@ -44,7 +44,7 @@ r = d.pct_change(fill_method=None)
 cols = ["HG=F","CPER","COPX","URA","XLU","VST","CEG","GEV"]
 out = pd.DataFrame({"corr_SMH": r[cols].corrwith(r["SMH"]), "corr_NVDA": r[cols].corrwith(r["NVDA"]),
                     "corr_SPY": r[cols].corrwith(r["SPY"])})
-out["beta_SMH"] = [r[c].cov(r["SMH"]) / r["SMH"].var() for c in cols]
+out["beta_SMH"] = [(p := r[[c, "SMH"]].dropna())[c].cov(p["SMH"]) / p["SMH"].var() for c in cols]  # same dates for cov and var
 out["ann_vol"] = r[cols].std() * 252 ** 0.5
 out["total_return"] = [d[c].dropna().iloc[-1] / d[c].dropna().iloc[0] - 1 for c in cols]
 print(out.round(2)); print(r.loc["2025-01-27"].round(3))
