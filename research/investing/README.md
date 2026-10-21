@@ -2,10 +2,11 @@
 
 Find understandable businesses that can compound per-share value for years, then establish whether the price offers a defensible advantage over a broad market alternative. Long equities are the default; specific portfolio tilts are also possible.
 
-**Workspace status:** review scaffolding installed on 2026-10-17. The recurring pipeline and automated views are planned in [Omniscience epic omni-83b](https://github.com/peppern/omniscience/blob/investment-research-routine/docs/rfcs/investment-research-routine.md). This page is not evidence of a completed research run. There are no screened businesses or actionable recommendations in this workspace yet.
+**Workspace status:** review scaffolding installed on 2026-10-17. The recurring pipeline and automated views are planned in [Omniscience epic omni-83b](https://github.com/peppern/omniscience/blob/investment-research-routine/docs/rfcs/investment-research-routine.md). This page is not evidence of a completed research run. There are no screened businesses or actionable recommendations in this workspace yet. The first research run (2026-10-21, `ai-exposure-via-energy-commodities`) answered thesis questions only; no business was assessed.
 
 ## Review in this order
 
+0. **[Latest thesis review packet: Bet on AI through energy and commodities (2026-10-21)](reviews/theses/2026-10-21-ai-exposure-via-energy-commodities.md)**: the one page to read per thesis per cycle (claim, view, new evidence, answers, risks, decision asks). The generated [desk review](reviews/generated-latest-review.md) and [digest](reviews/generated-latest-digest.md) cover all theses.
 1. **[Latest review: setup and inherited leads](reviews/2026-10-17-setup.md)** — what exists, what remains unknown, and what comes next.
 2. **[Recommendations](recommendations/README.md)** — specific proposed actions, entry conditions, sizing and blockers; proposals await Noah's decision.
 3. **[Business assessments](businesses/README.md)** and **[investment expressions](expressions/README.md)** — business quality, alternatives and price discipline.
