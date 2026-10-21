@@ -25,7 +25,7 @@ Reply in chat (or comment on the Omnibrain PR) with e.g. “reframe (a), convict
 
 **Status:** active (promoted 2026-10-21 per Noah's chat instruction to drive this thesis end to end). **View direction:** weakened. **Evidence:** 4 supporting, 3 challenging, 4 qualifying.
 
-**Agent view (revised after review, 2026-10-21):** The thesis splits in two. The **US power leg is real but crowded**: data centres (all of them, AI the main driver) are nearly half of US electricity demand growth to 2030, listed power producers hold direct data-centre contracts, and power equipment is supply-constrained, yet those stocks already trade as high-beta AI proxies (more than -20% on the DeepSeek day). The **copper leg is the reverse**: liquid, leverageable and not crowded, but data-centre copper (~512 kt, ~2% of total demand) is a small slice of the market and the refined market is in surplus through 2027, so copper looks like weak AI exposure. Its share of demand *growth* is still to be measured.
+**Agent view (revised after review, 2026-10-21):** The thesis splits in two. The **US power leg is real but crowded**: data centres (all of them, AI the main driver) are nearly half of US electricity demand growth to 2030, listed power producers hold direct data-centre contracts, and power equipment is supply-constrained, yet those stocks already trade as high-beta AI proxies (more than -20% on the DeepSeek day). The **copper leg is the reverse**: liquid and not crowded (leverage terms still to check), but data-centre copper (~512 kt, ~2% of total demand) is a small slice of the market and the refined market is in surplus through 2027, so copper looks like weak AI exposure. Its share of demand *growth* is still to be measured.
 
 ## 3. What changed this cycle
 
