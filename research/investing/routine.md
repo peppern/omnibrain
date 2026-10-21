@@ -4,7 +4,7 @@
 
 ## One bounded run
 
-1. Read the mandate, prior successful run, portfolio context and outstanding decisions. Record input cutoffs, budget and source availability.
+1. Read the mandate, prior successful run, [portfolio context](portfolio/README.md) and outstanding decisions. Record input cutoffs, budget and source availability. The portfolio snapshot is historical and coarse; use its source dates, preserve opaque sleeves, and consult FamilyFin before inferring current funding or a trade size.
 2. Process new or changed material. Extract source-grounded observations, inspect nearby theses, and attach with a supports/challenges/qualifies/context rationale. Keep unresolved matches in the inbox. Propose a new candidate only for a distinct claim.
 3. Prioritize existing work by decision impact, information gain and material change. Seek contrary evidence. Do not keep researching parked cases without a reopening trigger.
 4. Answer a bounded question using primary sources and the library where available. Save provenance, source dates and evidence; report missing access instead of treating it as a negative result.

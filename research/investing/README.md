@@ -6,6 +6,8 @@ Find understandable businesses that can compound per-share value for years, then
 
 ## Review in this order
 
+Start with **[Portfolio holdings and size bands](portfolio/README.md)** for NHP exposure context. This is a dated, coarse snapshot; current funding, exact weights and allocation constraints still require FamilyFin evidence.
+
 0. **[Latest thesis review packet: Bet on AI through energy and commodities (2026-10-21)](reviews/theses/2026-10-21-ai-exposure-via-energy-commodities.md)**: the one page to read per thesis per cycle (claim, view, new evidence, answers, risks, decision asks). The generated [desk review](reviews/generated-latest-review.md) and [digest](reviews/generated-latest-digest.md) cover all theses.
 1. **[Latest review: setup and inherited leads](reviews/2026-10-17-setup.md)** — what exists, what remains unknown, and what comes next.
 2. **[Recommendations](recommendations/README.md)** — specific proposed actions, entry conditions, sizing and blockers; proposals await Noah's decision.

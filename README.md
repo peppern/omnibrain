@@ -6,6 +6,8 @@ The goal is simple: if a person or agent does useful synthesis work, it should b
 
 Start with the [Investment research desk](research/investing/README.md) for long-term business research, evidence, specific portfolio proposals and review.
 
+[Portfolio holdings and size bands](research/investing/portfolio/README.md) provide compact, dated NHP household context for that research.
+
 ## What goes here
 
 - `research/`

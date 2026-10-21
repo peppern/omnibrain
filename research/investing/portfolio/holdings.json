@@ -1,0 +1,862 @@
+{
+  "schema_version": 1,
+  "household": "NHP",
+  "generated_on": "2026-10-21",
+  "source_period": "nhp_2026-08",
+  "source_ingest_run": "505da23e-890c-489d-81ce-f88ec2020c2d",
+  "size_basis": "Recorded USD financial assets, including cash and private holdings; excluding direct real estate and liabilities",
+  "size_status": "historical and provisional; private-mark uncertainty is unquantified and affects every band through the denominator",
+  "coverage_limits": [
+    "Frec and startup-basket constituents are unknown",
+    "Fund look-through and bank balances outside ingest are not represented",
+    "Absence is not proof of no exposure; current holdings and funding require refreshed FamilyFin evidence"
+  ],
+  "bands": {
+    "large": ">=5%",
+    "medium": ">=1% and <5%",
+    "small": "<1%"
+  },
+  "excluded_row_counts": {
+    "direct_real_estate": 1,
+    "liabilities": 0,
+    "zero_value": 0
+  },
+  "positions": [
+    {
+      "name": "Stripe Stock",
+      "ticker": null,
+      "size": "large",
+      "source_dates": [
+        "2026-05-23"
+      ],
+      "basis": [
+        "derived from carried manual value; valuation uncertainty unquantified"
+      ]
+    },
+    {
+      "name": "VANGUARD TAX-EXEMPT BOND",
+      "ticker": "VTEB",
+      "size": "large",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Vg Morningstar Ts Mkt Etf-Us",
+      "ticker": "VTI",
+      "size": "large",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Vanguard Total Intl Stock",
+      "ticker": "VXUS",
+      "size": "large",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "APPLE INC",
+      "ticker": "AAPL",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Frec portfolio (constituents not available)",
+      "ticker": null,
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from manually transcribed total; date attributed by operator"
+      ]
+    },
+    {
+      "name": "SCHWAB U.S. BROAD MARKET",
+      "ticker": "SCHB",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Startup Investments",
+      "ticker": null,
+      "size": "medium",
+      "source_dates": [
+        "2026-05-23"
+      ],
+      "basis": [
+        "derived from carried manual value; valuation uncertainty unquantified"
+      ]
+    },
+    {
+      "name": "VANGUARD MORNINGSTARSMALL CAP VALUE ETF",
+      "ticker": "VBR",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD INTERMEDIATETERM CORP BOND ETF",
+      "ticker": "VCIT",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD FTSE ALL WORLD EX US ETF",
+      "ticker": "VEU",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD DIVIDEND APPRECIATION INDEX FUND ETF",
+      "ticker": "VIG",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD FEDERAL MONEY MARKET FUND",
+      "ticker": "VMFXX",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD MUNICIPAL MONEY MARKET",
+      "ticker": "VMSXX",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD REAL ESTATE INDEX ETF",
+      "ticker": "VNQ",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD MORNINGSTARGROWTH ETF",
+      "ticker": "VUG",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD HIGH YIELD TAX EXEMPT ADMIRAL CL",
+      "ticker": "VWALX",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD FTSE EMERGING MARKETS ETF",
+      "ticker": "VWO",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD EXTENDED MARKET ETF",
+      "ticker": "VXF",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD HIGH DIVIDEND YIELD ETF",
+      "ticker": "VYM",
+      "size": "medium",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "CLARK CNTY NEV SCH",
+      "ticker": "181059L79",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "DANBU RY CONN",
+      "ticker": "235866BH2",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "US TREASU R NT",
+      "ticker": "912828Z78",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Keppel Dc Reit",
+      "ticker": "AJBU",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Asml Holding Nv-Ny Reg Shs",
+      "ticker": "ASML",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "BROOKFIELD RENEW PAR LP",
+      "ticker": "BEP",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD INTERMEDIATETERM BOND ETF",
+      "ticker": "BIV",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Capitaland Integrated Commer",
+      "ticker": "C38U",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Brokerage cash and accrued income",
+      "ticker": "CASH",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "INVESCO S&P GLOBAL WATER INDEX ETF",
+      "ticker": "CGW",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Crowdstrike Holdings Inc - A",
+      "ticker": "CRWD",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Dbs Group Holdings Ltd",
+      "ticker": "D05",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Dimensional Us Core Equity",
+      "ticker": "DFAC",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Dimensional World Ex Us Core",
+      "ticker": "DFAX",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Dimensional International Hi",
+      "ticker": "DIHP",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Wisdomtree India Earnings",
+      "ticker": "EPI",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Franklin Ftse India Etf",
+      "ticker": "FLIN",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "ALPHABET INCCL C",
+      "ticker": "GOOG",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "ALPHABET INCCL A",
+      "ticker": "GOOGL",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "GRAB HLDGS LTD F",
+      "ticker": "GRAB",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "ISHARES CORE MSCI",
+      "ticker": "IEMG",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "ISHARES U .S. AEROSPACE &",
+      "ticker": "ITA",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "GLADSTONE LD CORP",
+      "ticker": "LAND",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "MERCADOLIBRE INC",
+      "ticker": "MELI",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Microsoft Corp",
+      "ticker": "MSFT",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "NEXTERA ENERGY INC",
+      "ticker": "NEE",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "NVIDIA CORP",
+      "ticker": "NVDA",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "REALTY INCOME CORP REIT",
+      "ticker": "O",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "PROLOGIS INC REIT",
+      "ticker": "PLD",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "SCHW AB U .S. SMALL-CAP",
+      "ticker": "SCHA",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "SCHW AB INTERNATIONAL",
+      "ticker": "SCHC",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "SCHW AB U .S. DIV IDEND",
+      "ticker": "SCHD",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "SCHW AB INTERNATIONAL",
+      "ticker": "SCHF",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "SCHWAB U.S. LARGE-CAP",
+      "ticker": "SCHG",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "SCHWAB U.S. MID-CAP ETF",
+      "ticker": "SCHM",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Ishares Msci Japan Small-Cap",
+      "ticker": "SCJ",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "ISHARES MSCI INDIA",
+      "ticker": "SMIN",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "SNOHOMISH CNTY WAPUD 001 ELEC REV SYS SER A B/E",
+      "ticker": null,
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "ST PAUL MN INDPT SCHDIST 625 SCH BLDG A B/E OID 98.362 2.15 CR ENH",
+      "ticker": null,
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Trane Technologies Plc",
+      "ticker": "TT",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "U S TREASURY NOTE",
+      "ticker": null,
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Uber Technologies Inc",
+      "ticker": "UBER",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD MORNINGSTARSMALL CAP ETF",
+      "ticker": "VB",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD FTSE DEVELOPED MARKETS ETF",
+      "ticker": "VEA",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD INTERMEDIATETERM TREASURY INDEX ETF",
+      "ticker": "VGIT",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "V ANGU ARD HEALTH CARE",
+      "ticker": "VHT",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "Vanguard Int Div App Indx Fd",
+      "ticker": "VIGI",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD GLOBAL EX U S REAL ESTATE INDEX FD ETF",
+      "ticker": "VNQI",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD MORNINGSTARMID CAP GROWTH ETF",
+      "ticker": "VOT",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD UTILITIES INDEX",
+      "ticker": "VPU",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD FTSE ALL WORLD EX U S SMALL CAP ETF",
+      "ticker": "VSS",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD MORNINGSTARVALUE ETF",
+      "ticker": "VTV",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "VANGUARD WELLINGTON INVESTOR CL",
+      "ticker": "VWELX",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "WELL",
+      "ticker": "WELL",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "WORCESTER MAMUN PURP LN B/E OID 98.489 3.6",
+      "ticker": null,
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    },
+    {
+      "name": "WATSCO INC",
+      "ticker": "WSO",
+      "size": "small",
+      "source_dates": [
+        "2026-08-31"
+      ],
+      "basis": [
+        "derived from recorded statement value"
+      ]
+    }
+  ]
+}

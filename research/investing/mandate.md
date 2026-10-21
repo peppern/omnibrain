@@ -30,6 +30,6 @@ These are research dispositions. They do not automatically change an owner's the
 
 Working research horizon: 5–10 years, configurable. Proposed cadence: daily intake, weekly research/review, quarterly and material-event refresh. These are implementation defaults, not an activated schedule.
 
-Benchmark, base currency, required excess-return cushion, position/concentration limits, holdings, funding sources, and data-freshness limits remain to be configured. Missing inputs block an actionable recommendation; they do not block useful research. Do not invent a precise return hurdle, probability or position size.
+Historical NHP holdings with coarse size bands are available in [portfolio context](portfolio/README.md); they do not establish current weights or available capital. Benchmark, base currency, required excess-return cushion, position/concentration limits, current holdings, funding sources, and data-freshness limits remain to be configured. Missing inputs block an actionable recommendation; they do not block useful research. Do not invent a precise return hurdle, probability or position size.
 
 Only Noah changes approved mandate constraints, thesis lifecycle/conviction or records portfolio decisions. Cite his instruction and exact proposal revision. No trade execution is part of this routine.
