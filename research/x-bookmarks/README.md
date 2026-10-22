@@ -1,6 +1,6 @@
 # X Bookmarks
 
-Source: Noah Pepper's (@noahmp) X bookmarks, 87 posts, published 2018-03-20 → 2026-10-20; 24 marked partial.  
+Source: Noah Pepper's (@noahmp) X bookmarks, 87 posts, published 2018-03-20 → 2026-10-20; 18 marked partial.  
 Point: a condensed, source-grounded index of saved posts. Each note in `notes/` has the link, author, date, topic, main point, takeaways, and transcript link when there's a video. See [digest.md](digest.md) for cross-topic themes.
 
 ## Pipeline
@@ -17,7 +17,7 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 - [@poteto announced pstack v0.15.27 with a beta meta-skill, /create-formal-verification-skill, that generates a …](notes/2026-10-18-poteto-2111926622278521253.md) — @poteto, 2026-10-18
 - [Jev paired with Grok Bot can cut fork costs from about $110/day to about $4 by letting a cheap model score not…](notes/2026-10-17-0x-rody-2111491014053511341.md) — @0x_rody, 2026-10-17
 - [Mignano argues agentic AI will reorganize markets the way internet and then mobile/cloud did, hitting incumben…](notes/2026-10-17-mignano-2111566624855560200.md) — @mignano, 2026-10-17
-- [Doris Tsao's lab reports a preprint claiming consciousness has an unexpected neural structure that overturns d…](notes/2026-10-17-doristsao-2111316522098733078.md) — @doristsao, 2026-10-17
+- [Doris Tsao's lab reports a monkey study (bioRxiv preprint led by Janis Hesse) finding that face-processing cor…](notes/2026-10-17-doristsao-2111316522098733078.md) — @doristsao, 2026-10-17
 - [Seven repos are pitched as compilers that turn notes into a linked knowledge base Claude can maintain, not as …](notes/2026-10-16-rvaniaaaa-2111085365171790269.md) — @rvaniaaaa, 2026-10-16
 - [The post is a hype claim that pairing Grok Bot with Jev for SEO decisions and actions will create more million…](notes/2026-10-16-irongiantxbt-2110974016555286817.md) — @irongiantXBT, 2026-10-16
 - [The video is a 34-minute clip from a Grok Bot livestream where Lauren Tan and two co-hosts plan a Grok Bot mer…](notes/2026-10-16-iiiichigo-chan-2111144368547487835.md) — @iiiichigo_chan, 2026-10-16
@@ -120,5 +120,5 @@ Summaries are written only from the fetched post, linked pages, quoted posts and
 - [FIRE's Nadine Strossen explains the 'Weimar fallacy': Weimar Germany had strict hate-speech laws, and censorin…](notes/2025-02-16-nicoperrino-1891225589052289481.md) — @NicoPerrino, 2025-02-16
 - [Nico Perrino rebuts Margaret Brennan's claim that free speech was 'weaponized' to commit the Holocaust.](notes/2025-02-16-nicoperrino-1891225013828702391.md) — @NicoPerrino, 2025-02-16
 - [BNO News breaking item (Jan 2025): the White House said Colombia agreed to all of Trump's terms, including acc…](notes/2025-01-27-bnonews-1883716032940171631.md) — @BNONews, 2025-01-27
-- [A post claims Biden's clemency list, taken from an ACLU list of 'nonviolent drug offenders', included a Connec…](notes/2025-01-26-mualphaxi-1883641365398974808.md) — @mualphaxi, 2025-01-26
+- [A post says a Biden clemency based on an ACLU list of 'nonviolent drug offenders' freed a Connecticut drug dea…](notes/2025-01-26-mualphaxi-1883641365398974808.md) — @mualphaxi, 2025-01-26
 - [Colin Percival argues that much measured wealth inequality is just demographics: people at different life stag…](notes/2021-12-14-cperciva-1470686693548122113.md) — @cperciva, 2021-12-14
