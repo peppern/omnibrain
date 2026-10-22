@@ -1,0 +1,1144 @@
+{
+ "artifacts": {
+  "research/ai-engineering/README.md": "83d18640c06238960d17a95b6db6b7fe9e1e6b17987cc379759766bc1d255c44",
+  "research/ai-engineering/agent-tools-and-apis.md": "90b073c1a53f23a1dd5a9b3042c4eb41f2c9d37f2f49dba5827c8409b1c7e73a",
+  "research/ai-engineering/context-management.md": "ca74d2af54b1ba59b3892c87729cbda3cc74d627f5d865d75ffc8727044c249e",
+  "research/ai-engineering/evals.md": "73cecd47f940a4f56ac03b26b68d500618f24480f7548434acf888d25fc55b81",
+  "research/ai-engineering/improvement-backlog.jsonl": "4ccc724af50d5fac84066cf57d81fbcfb14b959e4235e6994de3cf8e1d58a623",
+  "research/ai-engineering/model-and-stack-choice.md": "86326904a6edfb842340445c9ecb60daabd19f4fb43ff0fcf37cb6b275fb8af7",
+  "research/ai-engineering/planning-and-review-loops.md": "0d5344277e0c6e5dda2059961c86125a391f2638510651af2e7e7814b88280a8",
+  "research/ai-engineering/records.jsonl": "eb9af1df0858f3adcbbc221792cb1fb2ed9b689c83a278ebaaebc1107b2003af",
+  "research/ai-engineering/research-agents.md": "df11c59fd155a0e1e49daaea9500ad3686c38ac74b2d6a8b6e640eeb572c4c53",
+  "research/ai-engineering/retrieval-and-rag.md": "83fa62d5316a537b01cf50994621150826e48470f8dabd9c6ca12ac0a96ac8cf",
+  "research/investing/businesses/generated-assessments.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "research/investing/businesses/generated-index.md": "b1c0d8c8188f9707b0255064de45a35661e756418a40159c3ffc60118f58b770",
+  "research/investing/decisions/generated-decisions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "research/investing/decisions/generated-decisions.md": "d5438d7e96abfada9a77dd5d14deb664a1276fbcbad4d2579e7834e5576702ba",
+  "research/investing/expressions/generated-expressions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "research/investing/expressions/generated-index.md": "27e48bec7a1c8e5b2b68721c83e376ad687a627354c49ea9e36e4b1daced330e",
+  "research/investing/inbox/generated-candidates.jsonl": "424b7ac67ff438d42727aed63f9c1b8ea7e35ea7d75a781f70d0c20bb3c06475",
+  "research/investing/inbox/generated-evidence-inbox.md": "c33c6eaf2c3d26cf3385da838158a2302bcd8401e093b10b50eb23886cf7c0f9",
+  "research/investing/inbox/generated-inbox.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "research/investing/inbox/generated-links.jsonl": "2aacdc7ebaf978b8735cb6967343d5d16cbb692faea8c4dd99c62bef9af0eb4f",
+  "research/investing/inbox/generated-observations.jsonl": "02985b6066d20d5aab4e5c5ff9f9d40e85bf3972bff47b24818e7b6f1683e09d",
+  "research/investing/inbox/generated-routings.jsonl": "d58aa887a7ae71cb86eb680a8e052dedc6cf452b045d5b3d2b87521cc283a9c6",
+  "research/investing/inbox/generated-sources.jsonl": "db585d5e404d22f8572ac0d48f7dfc2718f127973b805254e5fafb8e90b189b8",
+  "research/investing/inbox/generated-supersessions.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "research/investing/recommendations/generated-index.md": "7387222e0a8271f485d6f91556129d13670ea699d41f60c33735ca49356cf225",
+  "research/investing/recommendations/generated-recommendations.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "research/investing/reviews/generated-runs.jsonl": "4c16e59d57bbf07526219e3966f1b78c5fb65dc7a54f8862d4d0892558bc8ba6",
+  "research/investing/theses/generated-current-views.jsonl": "b37efe3bcb71f6ff3c8caef705c3866c6663819ebba6c3eb316d7aea06d721eb",
+  "research/investing/theses/generated-current-views.md": "cf915c63ce2496a0ad91338aaa38ea33f6ff1b4409956d1f812194b8b939a453",
+  "research/investing/too-difficult/generated-index.md": "04f9c6299dae337a5a514f2d97bcf483753c682a4f62d12e5171f4d63d696ca9",
+  "research/investing/too-difficult/generated-parked.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "research/investment-ideas/README.md": "f635de5bcf8b937898b67fd93c05f5abafc971d3fe9be6332643c5b5e36fe608",
+  "research/investment-ideas/records.jsonl": "69d06c7cb7e1f7fdbf2ab35c88ad150ec5d54684125ab82fa5e79ead9bc53126",
+  "research/investment-ideas/research-queue.jsonl": "4280c816abb3efd20057b3f4233dc0844a59af29ae3c8c72797fb3b5a7b33ba8",
+  "research/investment-ideas/theses.jsonl": "52d494de0bb37bae474c065b6fca30bd1eb9aa8329d48b31d5384db8eac6accd",
+  "research/investment-ideas/theses/agents-disrupt-knowledge-gatekeepers.md": "0f668a4c3222f8cb10737faf9386ec4ce013729c4381121ff61a3eae8d250112",
+  "research/investment-ideas/theses/ai-exposure-via-energy-commodities.md": "9277adb34da1f0c9811bafda2b253c4616a819132347bbddc263277898ea742e",
+  "research/investment-ideas/theses/buy-after-momentum-capitulation.md": "10bfd2d70f2d8bd4d8bbfd0ce5bc6e55eee8c3b6b07526c4f97f7f32d844ed80",
+  "research/investment-ideas/theses/narrative-driven-macro-prints.md": "02e4d84ba901a7a2c63759dc5b1a326077e839418d2367663946a074df61f050",
+  "research/investment-ideas/theses/private-credit-hidden-risk.md": "487f8d51d5e0f6a973cd7af7e6bf67b37a0eb60087dd73144777e9e7b01028d8",
+  "research/investment-ideas/theses/robotaxi-value-capture.md": "eba1ea1d60d758631447db6c4302919018680550678212807c36e7f4498c05e6",
+  "research/investment-ideas/theses/saas-retention-metrics-mislead.md": "4e4bd05a5997d5f63bc97f409b3ee52527ac7155dcf5aad16d65f4049a05dee8",
+  "research/investment-ideas/theses/sunbelt-heartland-real-estate.md": "415ed3f6ed3716bed85d3163e08451cc77f407ee391049f34942347989335ef5",
+  "research/investment-ideas/theses/tail-hedges-raise-compound-returns.md": "229ea68bc7162209546acf1c6f012e1853f4cb06f59cc08f09bd2a28c30eda55",
+  "research/investment-ideas/theses/us-mass-timber-adoption.md": "e9121b5aafcb09397598fad28d4d55cd9a371f7f194286d5d413453261668855"
+ },
+ "classifications": {
+  "grok-x:1007459876182921218": {
+   "classified_at": "2026-10-17T07:26:48.781348+00:00",
+   "content_hash": "34c2fa8386eda7a74ae92d6ad623eda363983e141cdff6992d42105e593671ea",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1017973696210718720": {
+   "classified_at": "2026-10-17T07:26:48.779947+00:00",
+   "content_hash": "bb7e932dc170d595f5e82b47d86b27fb4efe831ddf6bf5816ae1e68a806988aa",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1018880837251674113": {
+   "classified_at": "2026-10-17T07:26:48.779111+00:00",
+   "content_hash": "b91cf880cf5d3c0adc01dd899bdb83a9850e66d05a17ce5c18c146b44e88316f",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1018937020121534464": {
+   "classified_at": "2026-10-17T07:26:48.778220+00:00",
+   "content_hash": "00a484a6d0596c3fe1b7db260d88c0a237bd7766dae5523bb1d822d23610ade9",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1025381331684007941": {
+   "classified_at": "2026-10-17T07:26:48.777366+00:00",
+   "content_hash": "922cf41684891a2a53d6993bd5062d6f13c2c535d58691861dc5c5478072b6d7",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1026157119353933824": {
+   "classified_at": "2026-10-22T00:02:01.571048+00:00",
+   "content_hash": "06b4c4e47f0926a83315e7e03fc63f62557dc0829341961af9d87ae889ecb307",
+   "reason": "not investment or AI-engineering content (Nomad List correlations page; screenshot now inspected)",
+   "tracks": []
+  },
+  "grok-x:1030595242133577728": {
+   "classified_at": "2026-10-17T07:26:48.775780+00:00",
+   "content_hash": "22c982240169fb7f48fd3462fe675560e0bc5b5648f61d099edb001b0fe9b8ac",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1033537234220109824": {
+   "classified_at": "2026-10-17T07:26:48.774931+00:00",
+   "content_hash": "167d133b3820764c0fd833457c5ec24579ad2c625c544965e9a8d695621f93ea",
+   "reason": "",
+   "tracks": [
+    "investment-ideas"
+   ]
+  },
+  "grok-x:1046517828235419649": {
+   "classified_at": "2026-10-17T07:26:48.774133+00:00",
+   "content_hash": "0384241937a4455d7ba3ebb009756ca134f30a401f8a9951944cfcd2dccdec73",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1118071142311288838": {
+   "classified_at": "2026-10-17T07:26:48.773272+00:00",
+   "content_hash": "58b8efd31692635c0975f006ca533bba75bf25157b09ba8a937d11725d9bd98c",
+   "reason": "economic data literacy; no investable angle",
+   "tracks": []
+  },
+  "grok-x:1126142177812176898": {
+   "classified_at": "2026-10-17T07:26:48.772472+00:00",
+   "content_hash": "b786c74f2e7663052261e5f89fee5ed6c6f6596a63cdc1e782d7c40a88715483",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1146876326529257472": {
+   "classified_at": "2026-10-17T07:26:48.770640+00:00",
+   "content_hash": "d035c51c044b23a69b43efda96e678450e90e28a48a3fbcd9787963e06a8e679",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1233598162612260864": {
+   "classified_at": "2026-10-17T07:26:48.771661+00:00",
+   "content_hash": "29201f69e12005fe5cbc77bd1aebde0d362c0ea0f0f5b2a70f20cfa73a57f30f",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1276903394725199872": {
+   "classified_at": "2026-10-17T07:26:48.769163+00:00",
+   "content_hash": "1d62e52ec16f050ac3217a104ff42938cd4e861a579eea4b439a1e703c12a222",
+   "reason": "",
+   "tracks": [
+    "investment-ideas"
+   ]
+  },
+  "grok-x:1362908515874955264": {
+   "classified_at": "2026-10-17T07:26:48.768357+00:00",
+   "content_hash": "deecdf163e0fa3b0aca6795cc76764eade902f7c799b69158bb49a0a42dcaf18",
+   "reason": "",
+   "tracks": [
+    "investment-ideas"
+   ]
+  },
+  "grok-x:1420567062104088582": {
+   "classified_at": "2026-10-22T00:02:04.717429+00:00",
+   "content_hash": "4f0b52f01181ff400b6006731b1d0655d2115b976099b53e5ccb6b7ae4e876e3",
+   "reason": "not investment or AI-engineering content (privacy/self-hosted email product; screenshot now inspected)",
+   "tracks": []
+  },
+  "grok-x:1436239651778351108": {
+   "classified_at": "2026-10-17T07:26:48.767571+00:00",
+   "content_hash": "10631c2f2392eb25206ebd6167dd40a42ef16b4522b555533893faf4349b5f96",
+   "reason": "historical demo reaction, no practice",
+   "tracks": []
+  },
+  "grok-x:1445461303921823747": {
+   "classified_at": "2026-10-17T07:26:48.766575+00:00",
+   "content_hash": "633ad4e6b4c98adf4617004c965edd89afd226ea78dcd5c8b03c1665cdae0c10",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1457022332225024001": {
+   "classified_at": "2026-10-17T07:26:48.764497+00:00",
+   "content_hash": "70d3c89a4fd9cddd11d23e0e1af560739464960ee80927e3b8be129015bf4ac6",
+   "reason": "identity NFT announcement; linked post not fetched (403), too thin to classify",
+   "tracks": []
+  },
+  "grok-x:1457840476376092678": {
+   "classified_at": "2026-10-17T07:26:48.765410+00:00",
+   "content_hash": "dafce43db14bce21619593d2ff97ea0a1a583474ae188df2cc22c382644ca17a",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1462615845482295298": {
+   "classified_at": "2026-10-17T07:26:48.763788+00:00",
+   "content_hash": "7d3bd57792e3d7bc26715b0df277dd019483a9667d3a4541fbfd721ad3352f63",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1470686693548122113": {
+   "classified_at": "2026-10-17T07:26:48.763050+00:00",
+   "content_hash": "d5118647b16c62f70af2da39de2996c82b022136e7198eb59220f1bb64cf514f",
+   "reason": "inequality statistics; no investable angle",
+   "tracks": []
+  },
+  "grok-x:1473101836299083779": {
+   "classified_at": "2026-10-17T07:26:48.762359+00:00",
+   "content_hash": "3c9e4701f0660a953b9ee133e7e003a215791e26c6c726ee8dfa8237f984113f",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1643517640881651712": {
+   "classified_at": "2026-10-17T07:26:48.761770+00:00",
+   "content_hash": "2b82bb4b9d5a950bf64689eb1e33ffa77bdd7ca3c50bcfaae26053d6893ce62e",
+   "reason": "AI media demos",
+   "tracks": []
+  },
+  "grok-x:1672402533023891456": {
+   "classified_at": "2026-10-17T07:26:48.761156+00:00",
+   "content_hash": "f5a15d57df48e22f168105e40d05532bea4cd18c8bce94051278fea13a54433f",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1674080254703411201": {
+   "classified_at": "2026-10-17T07:26:48.753524+00:00",
+   "content_hash": "f8f795eb44ad9e09abf94875e70f350414d0af1296ca42f10abd3ad7deae8e5c",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1684303687894839296": {
+   "classified_at": "2026-10-17T07:26:48.760532+00:00",
+   "content_hash": "9e513b46eab7a3e86186c54ed685a283c22bb2805d675e93c20b66633cc0665f",
+   "reason": "AI-lab economics commentary, no practice",
+   "tracks": []
+  },
+  "grok-x:1728456737198383452": {
+   "classified_at": "2026-10-22T00:02:08.118540+00:00",
+   "content_hash": "9846443bf53a6c8e790637aa3ba11ab53c7d8880cff7057d01a7f60dfbf45181",
+   "reason": "household finance/lifestyle (illustrations now inspected)",
+   "tracks": []
+  },
+  "grok-x:1730244740153491528": {
+   "classified_at": "2026-10-17T07:26:48.747520+00:00",
+   "content_hash": "735fea391c19b34b7ffef7b89e73d4e45fd9c4c81b5fe3f1d6eae75a03a4200d",
+   "reason": "biographical (Peter Lynch leaving Magellan); no investable idea",
+   "tracks": []
+  },
+  "grok-x:1732507366887665927": {
+   "classified_at": "2026-10-17T07:26:48.759287+00:00",
+   "content_hash": "910616b90e9f97048088433ee09c34486e50b0cb237c39598b8a7fcd142607f3",
+   "reason": "compliance/filing (FinCEN BOI)",
+   "tracks": []
+  },
+  "grok-x:1774971102609195051": {
+   "classified_at": "2026-10-17T07:26:48.758666+00:00",
+   "content_hash": "94523f2241a55b674044f86c8cd71c1fa5eca32b2828197ad37fd726bbbcacfd",
+   "reason": "personal-finance cash management, not an investment idea",
+   "tracks": []
+  },
+  "grok-x:1803916201560805399": {
+   "classified_at": "2026-10-17T07:26:48.758056+00:00",
+   "content_hash": "3148cac45a34f9599b435808a6b4321edf4552bae957de888dfc08a74c834d26",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1819671375759487270": {
+   "classified_at": "2026-10-22T00:02:11.409619+00:00",
+   "content_hash": "31eace7040f3e710333176b7588ebc9962a9e2b0be80c5562a216c0632bccf17",
+   "reason": "AI-assisted coding tips; existing ai-engineering record still grounds (screenshot now inspected)",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:1820853470150250569": {
+   "classified_at": "2026-10-22T00:02:14.613821+00:00",
+   "content_hash": "7f024440ff75245cdd05d25542c46eefec969d50cacf51a59d249022d56b7fdf",
+   "reason": "not investment or AI-engineering content (story emotional arcs; figure now inspected)",
+   "tracks": []
+  },
+  "grok-x:1821778224806019157": {
+   "classified_at": "2026-10-17T07:26:48.756331+00:00",
+   "content_hash": "531ea80e42ef8b567bd53e7427a5789174a5700b24ac72071e42667779b4d089",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1821972759658066429": {
+   "classified_at": "2026-10-17T07:26:48.755774+00:00",
+   "content_hash": "0624222e4f3c32c18417081170ab8f1c7a39d88f779ac5ec741f307a445881cf",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:1822026807643910149": {
+   "classified_at": "2026-10-17T07:26:48.755220+00:00",
+   "content_hash": "e035cc19af89025737269d39b163cf6ab4fd8e9dfb1f55a3280be62bb29751d6",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:1825581674870055189": {
+   "classified_at": "2026-10-17T07:26:48.754095+00:00",
+   "content_hash": "cb3d595f9dc69b8efb390766f931bb39ed422593cc16e5e41f5b7fef832e2338",
+   "reason": "anecdote; no reusable practice",
+   "tracks": []
+  },
+  "grok-x:1825618450837885036": {
+   "classified_at": "2026-10-17T07:26:48.754635+00:00",
+   "content_hash": "031f85691604dddfb8346b9867458df4b43b740900b2294dc0617ecb6d3ee6c8",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1839612955685785671": {
+   "classified_at": "2026-10-21T00:03:04.143955+00:00",
+   "content_hash": "52f17d07047fbcde40bc41181686d1dd42037956bdb7b3be094cfede18cf98e2",
+   "reason": "not investment or AI-engineering content (a small profile-picture badge tool)",
+   "tracks": []
+  },
+  "grok-x:1842100905778544903": {
+   "classified_at": "2026-10-17T07:26:48.752479+00:00",
+   "content_hash": "08a42831224f336c890c50161ea3bbdd9791675db991eb43f96fe95d50903f99",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:1845951988657459386": {
+   "classified_at": "2026-10-17T07:26:48.751989+00:00",
+   "content_hash": "ab2622279b15edda3482fa97bddee0f3c2c211f05027327f4cd30f68db78e739",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1855014700897239545": {
+   "classified_at": "2026-10-17T07:26:48.751391+00:00",
+   "content_hash": "c06a35e5b2ce4c458c976d84cdf898c451f669ae65b45bfc048a7490ee197617",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:1859061277726740606": {
+   "classified_at": "2026-10-17T07:26:48.750874+00:00",
+   "content_hash": "f5e71ae3d0ef3edf55fa0aaa59e6619b049e2779a8b15c0efde38c3dee15eb2c",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1859624338632343643": {
+   "classified_at": "2026-10-17T07:26:48.750342+00:00",
+   "content_hash": "31b8ddde93bfc2fbe62177d2709a0dc54614677218bec78269a5da1eaec919b6",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1864319699573473668": {
+   "classified_at": "2026-10-17T07:26:48.749826+00:00",
+   "content_hash": "3b4bc6594e712b53e8e140fff9f7407a73df53e976d13a11d39c13c286ebbd56",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1876483758171226519": {
+   "classified_at": "2026-10-17T07:26:48.749316+00:00",
+   "content_hash": "73e1c21dffaf3f008b3b0c6d3ff79d96d0685fe151a2b266947251edf259c552",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:1883641365398974808": {
+   "classified_at": "2026-10-22T00:02:17.657213+00:00",
+   "content_hash": "b21bd082b611d8708a1668d9211da949b86ddc918088d77dc55e594ea23241e4",
+   "reason": "not investment or AI-engineering content (US politics/clemency; article excerpt now inspected)",
+   "tracks": []
+  },
+  "grok-x:1883716032940171631": {
+   "classified_at": "2026-10-22T00:02:20.498545+00:00",
+   "content_hash": "244f100fb37020d6312c59f2b7bc225ddd22f099fd090addcefabe2db14884da",
+   "reason": "not investment or AI-engineering content (political news on deportation deal; statement image now inspected, tariff mention is incidental)",
+   "tracks": []
+  },
+  "grok-x:1883723911868858738": {
+   "classified_at": "2026-10-17T07:26:48.748869+00:00",
+   "content_hash": "6e75b52e735bdc759d68c2caac428e50567d5d858f40866ca1ea417a02d5a191",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1885192778256179605": {
+   "classified_at": "2026-10-17T07:26:48.747077+00:00",
+   "content_hash": "b94344f42ae276d69c6b7a85ce89f7d6e900eab3f55004f94ab4b5d32174f00a",
+   "reason": "AI energy/water chart; not engineering practice",
+   "tracks": []
+  },
+  "grok-x:1891225013828702391": {
+   "classified_at": "2026-10-17T07:26:48.746603+00:00",
+   "content_hash": "3efe3360033391ca028bda6e3c31e965cf7d02623762b19e9858f0bb30cb1611",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1891225589052289481": {
+   "classified_at": "2026-10-17T07:26:48.746127+00:00",
+   "content_hash": "1ce6db63beb1243a87a8df8febeb61b6d0136b81a47bf5d5f4732be54f62190f",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1891245839990866040": {
+   "classified_at": "2026-10-17T07:26:48.745634+00:00",
+   "content_hash": "dab72eacb5c9349c641b911180089e3c54d3e1eb458ff09b1df44261c5a0b71b",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:1898447057108566149": {
+   "classified_at": "2026-10-17T07:26:48.745199+00:00",
+   "content_hash": "cb05e855bb47f5ff4fb79b8fbf81b169f8460746252db4cea4ebb75587de1d0c",
+   "reason": "",
+   "tracks": [
+    "investment-ideas"
+   ]
+  },
+  "grok-x:1933655565798187274": {
+   "classified_at": "2026-10-17T07:26:48.744732+00:00",
+   "content_hash": "ef972cdc08c40c30484dabe945d36fcd390f164053b7c85b7b2692d991e99fbd",
+   "reason": "",
+   "tracks": [
+    "ai-engineering",
+    "investment-ideas"
+   ]
+  },
+  "grok-x:1937556712287826147": {
+   "classified_at": "2026-10-17T07:26:48.744026+00:00",
+   "content_hash": "f646053970ae097aad84786aa1b1250c439b432c10aa0de2855bdcf97b4b37d8",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:1942889686646521900": {
+   "classified_at": "2026-10-17T07:26:48.743417+00:00",
+   "content_hash": "092f766368d8c98a65eb69e9c0d8dcc0f3c4f12ebf95a1f1ac72c05c2534ba87",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2019401717364748767": {
+   "classified_at": "2026-10-17T07:26:48.743036+00:00",
+   "content_hash": "88d344dbfec7027d6a166333f2b8d1bac09483791fad292d04b6429b9cf2c049",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2051820672951718319": {
+   "classified_at": "2026-10-17T07:26:48.742628+00:00",
+   "content_hash": "114ce4f8e1f46faf1eeec38c55b03f57b4521e3939bace31a351f41400156dd6",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:2097641185003049419": {
+   "classified_at": "2026-10-17T07:26:48.742199+00:00",
+   "content_hash": "9bbf059bc898e1e116a74b24240a6142c02b3cf18efaf2d46cd8cccf62b26a84",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:2099371831165927482": {
+   "classified_at": "2026-10-17T07:26:48.741300+00:00",
+   "content_hash": "10d2811e78ae021f325215e39b706e9abb1c7bf721c2dfa56f0cd953b96dcc55",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:2099582117709774852": {
+   "classified_at": "2026-10-17T07:26:48.741781+00:00",
+   "content_hash": "38275bfba11dc8273c476b59eebe93f4168bb3e4b4de3887cd95d1271eb16d1e",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:2100754364545761643": {
+   "classified_at": "2026-10-17T07:26:48.733321+00:00",
+   "content_hash": "0e318c6c5f9d13f7b4792b643ead21d2394524cc7049d4a79d59c169bed3f5fd",
+   "reason": "X Article could not be fetched; content unknown",
+   "tracks": []
+  },
+  "grok-x:2109901960132305311": {
+   "classified_at": "2026-10-21T00:03:07.105988+00:00",
+   "content_hash": "e86a6dfab15ebfebfb5772753b669557910431b2965402d3187f3e338ca3c679",
+   "reason": "not investment or AI-engineering content (a macOS window-manager product launch)",
+   "tracks": []
+  },
+  "grok-x:2110058905875460393": {
+   "classified_at": "2026-10-17T07:26:48.732187+00:00",
+   "content_hash": "9cade41645a34a388a042a4e978de8f442618d8d25d5bc26523cd2e29d0c7069",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2110134294756597812": {
+   "classified_at": "2026-10-17T07:26:48.732752+00:00",
+   "content_hash": "27b72ee89e81335c2c13461ce56b390bfb68515e182f24d043136c91cd8ebb15",
+   "reason": "",
+   "tracks": [
+    "investment-ideas"
+   ]
+  },
+  "grok-x:2110687947423088920": {
+   "classified_at": "2026-10-18T23:59:15.004222+00:00",
+   "content_hash": "fe33615c3874b2061a0809a28c0332637d9ee5994162ae655ecb1cab4ec36e17",
+   "reason": "A list of content-production repos (images, voice, music, short video); not about building software with AI or improving agents, and not investment content.",
+   "tracks": []
+  },
+  "grok-x:2110757819427574056": {
+   "classified_at": "2026-10-17T07:26:48.723698+00:00",
+   "content_hash": "8955df533733da0012c35eda5c44d5a44c108297b4230ae941a00dfaa8fa22ee",
+   "reason": "interpretability commentary without engineering practices",
+   "tracks": []
+  },
+  "grok-x:2110764303087288788": {
+   "classified_at": "2026-10-17T07:26:48.730872+00:00",
+   "content_hash": "f038845a81c90c5da83cde1ac50a85797fc86febe0e32b84f3a3d4c04b796eed",
+   "reason": "",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2110853666739556518": {
+   "classified_at": "2026-10-20T00:06:35.045488+00:00",
+   "content_hash": "d2c8fc0bc35d0b6cd5aaf44b6a9f5f7ddb38367c305eae1e7e27a54dcbffe727",
+   "reason": "The newly transcribed 49-minute session describes concrete agent practices: turning editing feedback into shared skills, seeding skills from past review comments, style-specific skills, and a feedback loop that logs general feedback into a standards file all skills read.",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2110913638701916459": {
+   "classified_at": "2026-10-17T07:26:48.731348+00:00",
+   "content_hash": "f19a2573a48a5b99026327d490897376277c25b828f5a4ef62d6d8df4e9f516a",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:2110974016555286817": {
+   "classified_at": "2026-10-20T00:06:38.001422+00:00",
+   "content_hash": "ec921bd945a0f1e1ce97a507123615c85760314cbab76bb8816e0eadfe523686",
+   "reason": "Promotional hype about Grok Bot plus Jev for SEO with no concrete practice; the newly read silent video only shows an animated dashboard. Not investment or AI-engineering content.",
+   "tracks": []
+  },
+  "grok-x:2111085365171790269": {
+   "classified_at": "2026-10-20T00:08:44.503071+00:00",
+   "content_hash": "e7222fd7ef9ed8d889ee56e5d872d49655b4b5ba8627bff90601aa122aeecc5e",
+   "reason": "Describes a knowledge-base pattern relevant to omniscience/Omnibrain: have an agent compile sources into linked notes rather than storing a pile of snippets, with named tools. Re-checked after the video frames were inspected; they only illustrate the post.",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2111086010222477440": {
+   "classified_at": "2026-10-18T23:59:50.327081+00:00",
+   "content_hash": "f0a120526c5d9d38e7b55b546ae123b59d9b88bba813f308d1993282a1e3e273",
+   "reason": "Points to an agent tool pattern: an MCP that wraps a platform's raw MCP and applies the user's saved preferences automatically.",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2111125001482936542": {
+   "classified_at": "2026-10-20T00:06:40.995547+00:00",
+   "content_hash": "53086c1f5771f8c03d6ee212f64895eb6e567bd48615eb854001754e522922c7",
+   "reason": "A list of motion-design tools (Excalidraw, GSAP, Remotion, FFmpeg); the newly read silent video only repeats the list as an infographic. Not about building software with AI or improving agents, and not investment content.",
+   "tracks": []
+  },
+  "grok-x:2111144368547487835": {
+   "classified_at": "2026-10-20T00:06:43.861614+00:00",
+   "content_hash": "f8b82a3952b2d71e6ad1f2cb72d45cf82439148f0da9948ff8cddda49deb8336",
+   "reason": "Describes an agent-fleet structure (Chief of Staff coordinating specialist bots and workers), role-scoped bots, and narrowing scope or clearing context when a bot drifts; the transcript is now read.",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2111316522098733078": {
+   "classified_at": "2026-10-22T00:02:23.495817+00:00",
+   "content_hash": "2220eb3d72262a65b383aa4460ac8757296681582a08cfab392f8570c2e3ba8e",
+   "reason": "Neuroscience preprint on consciousness; thread and abstract recovered; not investment or AI-engineering content.",
+   "tracks": []
+  },
+  "grok-x:2111491014053511341": {
+   "classified_at": "2026-10-20T00:08:41.294724+00:00",
+   "content_hash": "03ce04832d622f1ee496b3693102ddda61623967d6a578465ba098af170dd6cd",
+   "reason": "Describes a concrete agent-harness pattern: a cheap model handles context scoring, easy steps, recovery choice and focused checks while the expensive model does the hard reasoning. Re-checked after the video frames were inspected; they only illustrate the post.",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2111566624855560200": {
+   "classified_at": "2026-10-18T23:59:38.097574+00:00",
+   "content_hash": "5c3222a60c0c450524ec35aae5d71f5456ea227d13021ef902762ae6e1e9ad4a",
+   "reason": "Investment evidence: a source opinion that agentic AI will displace incumbents that monetize gatekept institutional knowledge (law, medicine, personal finance); routed as a candidate thesis.",
+   "tracks": []
+  },
+  "grok-x:2111926622278521253": {
+   "classified_at": "2026-10-20T00:06:46.656826+00:00",
+   "content_hash": "324cdb09a25920821d0d3784279e20c8469120942959cddc75de85fc469b99b0",
+   "reason": "Announces an agent skill that generates formal verification suites (TLA+, Kani) for code, a concrete tool and practice for making agent-written software provably correct.",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2112270735116812640": {
+   "classified_at": "2026-10-21T00:03:13.441835+00:00",
+   "content_hash": "7600d964daca1eab337fb9e7261786436d2029c0491f30ce9890d003876ba857",
+   "reason": "Practical guide and tool list for cutting wasted tokens and retries in agent workflows: context handoffs, selective retrieval, change checks, result reuse, retry limits and done-checklists.",
+   "tracks": [
+    "ai-engineering"
+   ]
+  },
+  "grok-x:2112582008010604549": {
+   "classified_at": "2026-10-21T00:03:20.936519+00:00",
+   "content_hash": "10c06750bf1a04644c1a8d28d9799123596541c24702c1524cf47e43676bcd63",
+   "reason": "investment evidence: an opinion that commodities and power are an overlooked, cheap way to get AI exposure; routed as a candidate thesis.",
+   "tracks": []
+  },
+  "grok-x:976142396655255552": {
+   "classified_at": "2026-10-17T07:26:48.785906+00:00",
+   "content_hash": "3882c39d9ccee4996b38ee1e8053f99715ad7c375f9ad75e5c5fba18802fbddd",
+   "reason": "",
+   "tracks": [
+    "investment-ideas"
+   ]
+  },
+  "grok-x:976553846641250305": {
+   "classified_at": "2026-10-17T07:26:48.785021+00:00",
+   "content_hash": "e61433555fe35d9e8ea09aa4afa3b70eefa9fb88b9ea55cef6a3c3366f9017a1",
+   "reason": "",
+   "tracks": [
+    "investment-ideas"
+   ]
+  },
+  "grok-x:987401266610323456": {
+   "classified_at": "2026-10-17T07:26:48.784150+00:00",
+   "content_hash": "9e221b80f1fa802506bf7677dcaa73d2f1e39c047db67716258e8f418b8843d3",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  },
+  "grok-x:988483269472612352": {
+   "classified_at": "2026-10-17T07:26:48.782805+00:00",
+   "content_hash": "77c1db6ae02873656ccc41703730da0ff835c6f49cedfd469f661bc59bedf442",
+   "reason": "not investment or AI-engineering content",
+   "tracks": []
+  }
+ },
+ "content_versions": {
+  "business-assessment": "3",
+  "current-view": "1",
+  "evidence-ledger": "4",
+  "intake": "1",
+  "run-checkpoint": "1",
+  "track-record": "1"
+ },
+ "counts": {
+  "assessments": 0,
+  "classifications": 87,
+  "decisions": 0,
+  "evidence:candidates": 2,
+  "evidence:inbox": 0,
+  "evidence:lifted": 0,
+  "evidence:links": 12,
+  "evidence:observations": 12,
+  "evidence:routings": 11,
+  "evidence:sources": 9,
+  "evidence:supersessions": 0,
+  "expressions": 0,
+  "recommendation_revisions": 0,
+  "recommendations": 0,
+  "records:ai-engineering": 19,
+  "records:investment-ideas": 8,
+  "runs": 6,
+  "theses": 10,
+  "theses_merged": 0,
+  "views": 2
+ },
+ "evidence_lifted": [],
+ "investing_config": null,
+ "kind": "omniscience-backup-manifest",
+ "merged_theses": [],
+ "owner_portfolio": [],
+ "recommendations": {},
+ "routine_config": null,
+ "schema_version": 1,
+ "sources": {
+  "grok-x:1007459876182921218": {
+   "content_hash": "34c2fa8386eda7a74ae92d6ad623eda363983e141cdff6992d42105e593671ea",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1017973696210718720": {
+   "content_hash": "bb7e932dc170d595f5e82b47d86b27fb4efe831ddf6bf5816ae1e68a806988aa",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1018880837251674113": {
+   "content_hash": "b91cf880cf5d3c0adc01dd899bdb83a9850e66d05a17ce5c18c146b44e88316f",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1018937020121534464": {
+   "content_hash": "00a484a6d0596c3fe1b7db260d88c0a237bd7766dae5523bb1d822d23610ade9",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1025381331684007941": {
+   "content_hash": "922cf41684891a2a53d6993bd5062d6f13c2c535d58691861dc5c5478072b6d7",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1026157119353933824": {
+   "content_hash": "06b4c4e47f0926a83315e7e03fc63f62557dc0829341961af9d87ae889ecb307",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1030595242133577728": {
+   "content_hash": "22c982240169fb7f48fd3462fe675560e0bc5b5648f61d099edb001b0fe9b8ac",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1033537234220109824": {
+   "content_hash": "167d133b3820764c0fd833457c5ec24579ad2c625c544965e9a8d695621f93ea",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1046517828235419649": {
+   "content_hash": "0384241937a4455d7ba3ebb009756ca134f30a401f8a9951944cfcd2dccdec73",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1118071142311288838": {
+   "content_hash": "58b8efd31692635c0975f006ca533bba75bf25157b09ba8a937d11725d9bd98c",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1126142177812176898": {
+   "content_hash": "b786c74f2e7663052261e5f89fee5ed6c6f6596a63cdc1e782d7c40a88715483",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1146876326529257472": {
+   "content_hash": "d035c51c044b23a69b43efda96e678450e90e28a48a3fbcd9787963e06a8e679",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1233598162612260864": {
+   "content_hash": "29201f69e12005fe5cbc77bd1aebde0d362c0ea0f0f5b2a70f20cfa73a57f30f",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1276903394725199872": {
+   "content_hash": "1d62e52ec16f050ac3217a104ff42938cd4e861a579eea4b439a1e703c12a222",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1362908515874955264": {
+   "content_hash": "deecdf163e0fa3b0aca6795cc76764eade902f7c799b69158bb49a0a42dcaf18",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1420567062104088582": {
+   "content_hash": "4f0b52f01181ff400b6006731b1d0655d2115b976099b53e5ccb6b7ae4e876e3",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1436239651778351108": {
+   "content_hash": "10631c2f2392eb25206ebd6167dd40a42ef16b4522b555533893faf4349b5f96",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1445461303921823747": {
+   "content_hash": "633ad4e6b4c98adf4617004c965edd89afd226ea78dcd5c8b03c1665cdae0c10",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1457022332225024001": {
+   "content_hash": "70d3c89a4fd9cddd11d23e0e1af560739464960ee80927e3b8be129015bf4ac6",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1457840476376092678": {
+   "content_hash": "dafce43db14bce21619593d2ff97ea0a1a583474ae188df2cc22c382644ca17a",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1462615845482295298": {
+   "content_hash": "7d3bd57792e3d7bc26715b0df277dd019483a9667d3a4541fbfd721ad3352f63",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1470686693548122113": {
+   "content_hash": "d5118647b16c62f70af2da39de2996c82b022136e7198eb59220f1bb64cf514f",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1473101836299083779": {
+   "content_hash": "3c9e4701f0660a953b9ee133e7e003a215791e26c6c726ee8dfa8237f984113f",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1643517640881651712": {
+   "content_hash": "2b82bb4b9d5a950bf64689eb1e33ffa77bdd7ca3c50bcfaae26053d6893ce62e",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1672402533023891456": {
+   "content_hash": "f5a15d57df48e22f168105e40d05532bea4cd18c8bce94051278fea13a54433f",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1674080254703411201": {
+   "content_hash": "f8f795eb44ad9e09abf94875e70f350414d0af1296ca42f10abd3ad7deae8e5c",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1684303687894839296": {
+   "content_hash": "9e513b46eab7a3e86186c54ed685a283c22bb2805d675e93c20b66633cc0665f",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1728456737198383452": {
+   "content_hash": "9846443bf53a6c8e790637aa3ba11ab53c7d8880cff7057d01a7f60dfbf45181",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1730244740153491528": {
+   "content_hash": "735fea391c19b34b7ffef7b89e73d4e45fd9c4c81b5fe3f1d6eae75a03a4200d",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1732507366887665927": {
+   "content_hash": "910616b90e9f97048088433ee09c34486e50b0cb237c39598b8a7fcd142607f3",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1774971102609195051": {
+   "content_hash": "94523f2241a55b674044f86c8cd71c1fa5eca32b2828197ad37fd726bbbcacfd",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1803916201560805399": {
+   "content_hash": "3148cac45a34f9599b435808a6b4321edf4552bae957de888dfc08a74c834d26",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1819671375759487270": {
+   "content_hash": "31eace7040f3e710333176b7588ebc9962a9e2b0be80c5562a216c0632bccf17",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1820853470150250569": {
+   "content_hash": "7f024440ff75245cdd05d25542c46eefec969d50cacf51a59d249022d56b7fdf",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1821778224806019157": {
+   "content_hash": "531ea80e42ef8b567bd53e7427a5789174a5700b24ac72071e42667779b4d089",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1821972759658066429": {
+   "content_hash": "0624222e4f3c32c18417081170ab8f1c7a39d88f779ac5ec741f307a445881cf",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1822026807643910149": {
+   "content_hash": "e035cc19af89025737269d39b163cf6ab4fd8e9dfb1f55a3280be62bb29751d6",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1825581674870055189": {
+   "content_hash": "cb3d595f9dc69b8efb390766f931bb39ed422593cc16e5e41f5b7fef832e2338",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1825618450837885036": {
+   "content_hash": "031f85691604dddfb8346b9867458df4b43b740900b2294dc0617ecb6d3ee6c8",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1839612955685785671": {
+   "content_hash": "52f17d07047fbcde40bc41181686d1dd42037956bdb7b3be094cfede18cf98e2",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1842100905778544903": {
+   "content_hash": "08a42831224f336c890c50161ea3bbdd9791675db991eb43f96fe95d50903f99",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1845951988657459386": {
+   "content_hash": "ab2622279b15edda3482fa97bddee0f3c2c211f05027327f4cd30f68db78e739",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1855014700897239545": {
+   "content_hash": "c06a35e5b2ce4c458c976d84cdf898c451f669ae65b45bfc048a7490ee197617",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1859061277726740606": {
+   "content_hash": "f5e71ae3d0ef3edf55fa0aaa59e6619b049e2779a8b15c0efde38c3dee15eb2c",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1859624338632343643": {
+   "content_hash": "31b8ddde93bfc2fbe62177d2709a0dc54614677218bec78269a5da1eaec919b6",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1864319699573473668": {
+   "content_hash": "3b4bc6594e712b53e8e140fff9f7407a73df53e976d13a11d39c13c286ebbd56",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1876483758171226519": {
+   "content_hash": "73e1c21dffaf3f008b3b0c6d3ff79d96d0685fe151a2b266947251edf259c552",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1883641365398974808": {
+   "content_hash": "b21bd082b611d8708a1668d9211da949b86ddc918088d77dc55e594ea23241e4",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1883716032940171631": {
+   "content_hash": "244f100fb37020d6312c59f2b7bc225ddd22f099fd090addcefabe2db14884da",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1883723911868858738": {
+   "content_hash": "6e75b52e735bdc759d68c2caac428e50567d5d858f40866ca1ea417a02d5a191",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1885192778256179605": {
+   "content_hash": "b94344f42ae276d69c6b7a85ce89f7d6e900eab3f55004f94ab4b5d32174f00a",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1891225013828702391": {
+   "content_hash": "3efe3360033391ca028bda6e3c31e965cf7d02623762b19e9858f0bb30cb1611",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1891225589052289481": {
+   "content_hash": "1ce6db63beb1243a87a8df8febeb61b6d0136b81a47bf5d5f4732be54f62190f",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1891245839990866040": {
+   "content_hash": "dab72eacb5c9349c641b911180089e3c54d3e1eb458ff09b1df44261c5a0b71b",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1898447057108566149": {
+   "content_hash": "cb05e855bb47f5ff4fb79b8fbf81b169f8460746252db4cea4ebb75587de1d0c",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1933655565798187274": {
+   "content_hash": "ef972cdc08c40c30484dabe945d36fcd390f164053b7c85b7b2692d991e99fbd",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1937556712287826147": {
+   "content_hash": "f646053970ae097aad84786aa1b1250c439b432c10aa0de2855bdcf97b4b37d8",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:1942889686646521900": {
+   "content_hash": "092f766368d8c98a65eb69e9c0d8dcc0f3c4f12ebf95a1f1ac72c05c2534ba87",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2019401717364748767": {
+   "content_hash": "88d344dbfec7027d6a166333f2b8d1bac09483791fad292d04b6429b9cf2c049",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2051820672951718319": {
+   "content_hash": "114ce4f8e1f46faf1eeec38c55b03f57b4521e3939bace31a351f41400156dd6",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2097641185003049419": {
+   "content_hash": "9bbf059bc898e1e116a74b24240a6142c02b3cf18efaf2d46cd8cccf62b26a84",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2099371831165927482": {
+   "content_hash": "10d2811e78ae021f325215e39b706e9abb1c7bf721c2dfa56f0cd953b96dcc55",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2099582117709774852": {
+   "content_hash": "38275bfba11dc8273c476b59eebe93f4168bb3e4b4de3887cd95d1271eb16d1e",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2100754364545761643": {
+   "content_hash": "0e318c6c5f9d13f7b4792b643ead21d2394524cc7049d4a79d59c169bed3f5fd",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2109901960132305311": {
+   "content_hash": "e86a6dfab15ebfebfb5772753b669557910431b2965402d3187f3e338ca3c679",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2110058905875460393": {
+   "content_hash": "9cade41645a34a388a042a4e978de8f442618d8d25d5bc26523cd2e29d0c7069",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2110134294756597812": {
+   "content_hash": "27b72ee89e81335c2c13461ce56b390bfb68515e182f24d043136c91cd8ebb15",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2110687947423088920": {
+   "content_hash": "fe33615c3874b2061a0809a28c0332637d9ee5994162ae655ecb1cab4ec36e17",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2110757819427574056": {
+   "content_hash": "8955df533733da0012c35eda5c44d5a44c108297b4230ae941a00dfaa8fa22ee",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2110764303087288788": {
+   "content_hash": "f038845a81c90c5da83cde1ac50a85797fc86febe0e32b84f3a3d4c04b796eed",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2110853666739556518": {
+   "content_hash": "d2c8fc0bc35d0b6cd5aaf44b6a9f5f7ddb38367c305eae1e7e27a54dcbffe727",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2110913638701916459": {
+   "content_hash": "f19a2573a48a5b99026327d490897376277c25b828f5a4ef62d6d8df4e9f516a",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2110974016555286817": {
+   "content_hash": "ec921bd945a0f1e1ce97a507123615c85760314cbab76bb8816e0eadfe523686",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2111085365171790269": {
+   "content_hash": "e7222fd7ef9ed8d889ee56e5d872d49655b4b5ba8627bff90601aa122aeecc5e",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2111086010222477440": {
+   "content_hash": "f0a120526c5d9d38e7b55b546ae123b59d9b88bba813f308d1993282a1e3e273",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2111125001482936542": {
+   "content_hash": "53086c1f5771f8c03d6ee212f64895eb6e567bd48615eb854001754e522922c7",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2111144368547487835": {
+   "content_hash": "f8b82a3952b2d71e6ad1f2cb72d45cf82439148f0da9948ff8cddda49deb8336",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2111316522098733078": {
+   "content_hash": "2220eb3d72262a65b383aa4460ac8757296681582a08cfab392f8570c2e3ba8e",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2111491014053511341": {
+   "content_hash": "03ce04832d622f1ee496b3693102ddda61623967d6a578465ba098af170dd6cd",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2111566624855560200": {
+   "content_hash": "5c3222a60c0c450524ec35aae5d71f5456ea227d13021ef902762ae6e1e9ad4a",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2111926622278521253": {
+   "content_hash": "324cdb09a25920821d0d3784279e20c8469120942959cddc75de85fc469b99b0",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2112270735116812640": {
+   "content_hash": "7600d964daca1eab337fb9e7261786436d2029c0491f30ce9890d003876ba857",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:2112582008010604549": {
+   "content_hash": "10c06750bf1a04644c1a8d28d9799123596541c24702c1524cf47e43676bcd63",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:976142396655255552": {
+   "content_hash": "3882c39d9ccee4996b38ee1e8053f99715ad7c375f9ad75e5c5fba18802fbddd",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:976553846641250305": {
+   "content_hash": "e61433555fe35d9e8ea09aa4afa3b70eefa9fb88b9ea55cef6a3c3366f9017a1",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:987401266610323456": {
+   "content_hash": "9e221b80f1fa802506bf7677dcaa73d2f1e39c047db67716258e8f418b8843d3",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "grok-x:988483269472612352": {
+   "content_hash": "77c1db6ae02873656ccc41703730da0ff835c6f49cedfd469f661bc59bedf442",
+   "snapshot": null,
+   "snapshot_sha256": null
+  },
+  "research-notes:2026-10-21-bnef-copper-datacenters": {
+   "content_hash": "d54d840f68a21a37169c186f70597326c438e7a91d8676cacc0666c925706834",
+   "snapshot": "research-notes/2026-10-21-bnef-copper-datacenters.json",
+   "snapshot_sha256": "4ecd213a7ee973ae87459c6dd06b6220332bcda2d341478a6aa3e5a39b7597af"
+  },
+  "research-notes:2026-10-21-cnbc-deepseek-power": {
+   "content_hash": "f278b2d17c3e6179dde523ce0e896a735639183ad4151d7be201c2b2128feda2",
+   "snapshot": "research-notes/2026-10-21-cnbc-deepseek-power.json",
+   "snapshot_sha256": "7a32ec28e240f81343d14d36d9a689df0f34e47bce3d93eeb89de0c845bed1fe"
+  },
+  "research-notes:2026-10-21-doe-lbnl-2024": {
+   "content_hash": "5786dcf5af67e496ede6969c15397e1fc7e55ce144bdfdd16d60dc0e93523bfb",
+   "snapshot": "research-notes/2026-10-21-doe-lbnl-2024.json",
+   "snapshot_sha256": "decd45c6e54f16d4b10f6f43b04badfcd0cae5bcb10cfa584723a3f3d0764a21"
+  },
+  "research-notes:2026-10-21-gev-2q26-call": {
+   "content_hash": "bda1011e2130aeb71f89d66d01b46073e75138dac0c6102988df9bf895e2d496",
+   "snapshot": "research-notes/2026-10-21-gev-2q26-call.json",
+   "snapshot_sha256": "67730ef2ae4cc33a1ba230af0d351b42d052726e1ac249c54ef8f28493f4c6ba"
+  },
+  "research-notes:2026-10-21-icsg-surplus": {
+   "content_hash": "bfc7aeca38eeef00a5889c6d8714189f26b6ff666d9de9b6c35820a257d17f71",
+   "snapshot": "research-notes/2026-10-21-icsg-surplus.json",
+   "snapshot_sha256": "4ca32236d08edb7b00cb88695be1f221bcd2f0ab66818df6e7430820e0cf8c46"
+  },
+  "research-notes:2026-10-21-iea-copper-2pct": {
+   "content_hash": "8ba1367fc8b0d891b942d33f7d67cc46b55bb99f36bd070966dfbeba95fda736",
+   "snapshot": "research-notes/2026-10-21-iea-copper-2pct.json",
+   "snapshot_sha256": "2532853c82739deaa158511512bd32e865b9b1ec4d0cad5bca77dfd84443fe5d"
+  },
+  "research-notes:2026-10-21-iea-energy-and-ai": {
+   "content_hash": "56624dc675fce1901a77302574ccd14d8ff26845822a03fa0a9d87ec4588c603",
+   "snapshot": "research-notes/2026-10-21-iea-energy-and-ai.json",
+   "snapshot_sha256": "a39da0d18c7c7a78f1d1d6a5fe51ca17b6e688381e7741db6ee1465569743900"
+  }
+ },
+ "unpublished": {
+  "assessment work-log entries (plan/defer history; not a checkpoint)": 0,
+  "current views of merged theses": 0,
+  "intake run records (their RunCheckpoints are published)": 5,
+  "records held for a theme proposal": 1,
+  "research-worker run records (selection scores and results; their RunCheckpoints are published)": 1,
+  "theme proposals": 1
+ }
+}
